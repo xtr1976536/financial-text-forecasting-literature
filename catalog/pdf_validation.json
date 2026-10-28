@@ -1,0 +1,675 @@
+[
+  {
+    "id": "F001",
+    "pages": 142,
+    "bytes": 1146958,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F004",
+    "pages": 9,
+    "bytes": 530248,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F005",
+    "pages": 6,
+    "bytes": 180440,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F006",
+    "pages": 26,
+    "bytes": 662791,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F007",
+    "pages": 23,
+    "bytes": 7880805,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F009",
+    "pages": 47,
+    "bytes": 483606,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F010",
+    "pages": 10,
+    "bytes": 702091,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F012",
+    "pages": 27,
+    "bytes": 733507,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F013",
+    "pages": 19,
+    "bytes": 486972,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F014",
+    "pages": 32,
+    "bytes": 2175626,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F015",
+    "pages": 8,
+    "bytes": 1739912,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F016",
+    "pages": 8,
+    "bytes": 6839265,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F017",
+    "pages": 17,
+    "bytes": 685632,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F018",
+    "pages": 5,
+    "bytes": 706040,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F020",
+    "pages": 15,
+    "bytes": 565906,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F021",
+    "pages": 30,
+    "bytes": 800760,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F022",
+    "pages": 52,
+    "bytes": 487725,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F023",
+    "pages": 9,
+    "bytes": 1265643,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F024",
+    "pages": 123,
+    "bytes": 14467849,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F025",
+    "pages": 43,
+    "bytes": 3636525,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F030",
+    "pages": 86,
+    "bytes": 2850580,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F052",
+    "pages": 22,
+    "bytes": 1152372,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F054",
+    "pages": 6,
+    "bytes": 512446,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F055",
+    "pages": 5,
+    "bytes": 214193,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F061",
+    "pages": 15,
+    "bytes": 1651346,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F067",
+    "pages": 8,
+    "bytes": 565287,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F084",
+    "pages": 10,
+    "bytes": 1282649,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F094",
+    "pages": 4,
+    "bytes": 1623524,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F103",
+    "pages": 8,
+    "bytes": 523207,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F106",
+    "pages": 9,
+    "bytes": 465595,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F107",
+    "pages": 6,
+    "bytes": 284214,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F108",
+    "pages": 21,
+    "bytes": 1307440,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F109",
+    "pages": 28,
+    "bytes": 644503,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F113",
+    "pages": 14,
+    "bytes": 1112554,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F117",
+    "pages": 14,
+    "bytes": 1098419,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F125",
+    "pages": 9,
+    "bytes": 147751,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F128",
+    "pages": 9,
+    "bytes": 770813,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F130",
+    "pages": 7,
+    "bytes": 413766,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F132",
+    "pages": 9,
+    "bytes": 403591,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F135",
+    "pages": 16,
+    "bytes": 1647111,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F136",
+    "pages": 14,
+    "bytes": 853329,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F144",
+    "pages": 7,
+    "bytes": 450679,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F145",
+    "pages": 7,
+    "bytes": 3060922,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F147",
+    "pages": 45,
+    "bytes": 3672233,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F148",
+    "pages": 9,
+    "bytes": 770869,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F152",
+    "pages": 15,
+    "bytes": 236238,
+    "title_token_coverage": 0.889,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F159",
+    "pages": 7,
+    "bytes": 516779,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F160",
+    "pages": 6,
+    "bytes": 1264398,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F166",
+    "pages": 17,
+    "bytes": 479033,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F170",
+    "pages": 14,
+    "bytes": 1174823,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F176",
+    "pages": 52,
+    "bytes": 1364506,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F179",
+    "pages": 11,
+    "bytes": 1168637,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F186",
+    "pages": 13,
+    "bytes": 405078,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F187",
+    "pages": 9,
+    "bytes": 558475,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F194",
+    "pages": 20,
+    "bytes": 1749956,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F195",
+    "pages": 14,
+    "bytes": 6309089,
+    "title_token_coverage": 0.0,
+    "status": "manually_verified",
+    "manual_note": "Rendered first page: matching title and authors visible in manuscript highlights. PDF text extraction only returned copyright text."
+  },
+  {
+    "id": "F199",
+    "pages": 16,
+    "bytes": 883299,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F203",
+    "pages": 4,
+    "bytes": 373321,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F206",
+    "pages": 19,
+    "bytes": 673733,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F207",
+    "pages": 17,
+    "bytes": 1384482,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F212",
+    "pages": 18,
+    "bytes": 1086241,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F214",
+    "pages": 22,
+    "bytes": 1237033,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F215",
+    "pages": 22,
+    "bytes": 597155,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F216",
+    "pages": 28,
+    "bytes": 4088150,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F220",
+    "pages": 17,
+    "bytes": 714572,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F221",
+    "pages": 32,
+    "bytes": 3421846,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F224",
+    "pages": 13,
+    "bytes": 252119,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F225",
+    "pages": 19,
+    "bytes": 2220399,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F226",
+    "pages": 27,
+    "bytes": 3300478,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F231",
+    "pages": 14,
+    "bytes": 5332530,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F235",
+    "pages": 9,
+    "bytes": 391759,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F243",
+    "pages": 12,
+    "bytes": 1550468,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F244",
+    "pages": 11,
+    "bytes": 584689,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F245",
+    "pages": 12,
+    "bytes": 3191390,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F247",
+    "pages": 13,
+    "bytes": 1861426,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F260",
+    "pages": 20,
+    "bytes": 837139,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F261",
+    "pages": 12,
+    "bytes": 765037,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F263",
+    "pages": 13,
+    "bytes": 358292,
+    "title_token_coverage": 0.9,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F268",
+    "pages": 26,
+    "bytes": 795329,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F269",
+    "pages": 67,
+    "bytes": 677201,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F270",
+    "pages": 12,
+    "bytes": 3853084,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F271",
+    "pages": 13,
+    "bytes": 1344135,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F273",
+    "pages": 7,
+    "bytes": 517483,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F290",
+    "pages": 8,
+    "bytes": 1326976,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F304",
+    "pages": 12,
+    "bytes": 2287683,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F305",
+    "pages": 13,
+    "bytes": 1376230,
+    "title_token_coverage": 0.909,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F308",
+    "pages": 13,
+    "bytes": 990644,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F320",
+    "pages": 17,
+    "bytes": 962036,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F326",
+    "pages": 12,
+    "bytes": 578846,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F338",
+    "pages": 17,
+    "bytes": 147627,
+    "title_token_coverage": 0.8,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F362",
+    "pages": 40,
+    "bytes": 2301186,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F366",
+    "pages": 26,
+    "bytes": 1373294,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F392",
+    "pages": 7,
+    "bytes": 206823,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F424",
+    "pages": 12,
+    "bytes": 536934,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F425",
+    "pages": 16,
+    "bytes": 919353,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  },
+  {
+    "id": "F426",
+    "pages": 31,
+    "bytes": 6048158,
+    "title_token_coverage": 1.0,
+    "status": "title_overlap_pass"
+  }
+]

@@ -1,0 +1,764 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T16:13:12Z",
+      "timestamp": 1791821592006,
+      "version": "4.3.4"
+    },
+    "reference-count": 55,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2019-08-01T00:00:00Z",
+          "timestamp": 1564617600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Financial Economics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jfineco.2018.11.009",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2019-03-12T12:12:20Z",
+      "timestamp": 1552392740000
+    },
+    "page": "299-336",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 224,
+    "title": [
+      "How news and its context drive risk and returns around the world"
+    ],
+    "prefix": "10.1016",
+    "volume": "133",
+    "author": [
+      {
+        "given": "Charles W.",
+        "family": "Calomiris",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Harry",
+        "family": "Mamaysky",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1093/rfs/hhl021",
+        "article-title": "Stock return predictability: is it there?",
+        "volume": "20",
+        "author": "Ang",
+        "year": "2007",
+        "journal-title": "Rev. Financ. Stud."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.2469/faj.v73.n4.7",
+        "article-title": "Global equity country allocation: an application of factor investing",
+        "volume": "73",
+        "author": "Angelidis",
+        "year": "2017",
+        "journal-title": "Financ. Anal. J."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.3905/jpm.1997.409606",
+        "article-title": "Parallels between the cross-sectional predictability of stock and country returns",
+        "volume": "23",
+        "author": "Asness",
+        "year": "1997",
+        "journal-title": "J. Portf. Manag."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "929",
+        "DOI": "10.1111/jofi.12021",
+        "article-title": "Value and momentum everywhere",
+        "volume": "68",
+        "author": "Asness",
+        "year": "2013",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1593",
+        "DOI": "10.1093/qje/qjw024",
+        "article-title": "Measuring economic policy uncertainty",
+        "volume": "131",
+        "author": "Baker",
+        "year": "2016",
+        "journal-title": "Q. J. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1111/0022-1082.00205",
+        "article-title": "Investing for the long run when returns are predictable",
+        "volume": "55",
+        "author": "Barberis",
+        "year": "2000",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0007",
+        "series-title": "Emerging Financial Markets",
+        "author": "Beim",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "102",
+        "DOI": "10.3905/jpm.24.2.102",
+        "article-title": "Distributional characteristics of emerging market returns and asset allocation",
+        "author": "Bekaert",
+        "year": "1998",
+        "journal-title": "J. Portf. Manag."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "181",
+        "DOI": "10.1016/j.jeconom.2014.05.008",
+        "article-title": "The VIX, the variance premium and stock market volatility",
+        "volume": "183",
+        "author": "Bekaert",
+        "year": "2014",
+        "journal-title": "J. Econometr."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0010",
+        "first-page": "993",
+        "article-title": "Latent Dirichlet allocation",
+        "volume": "3",
+        "author": "Blei",
+        "year": "2003",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "10008",
+        "DOI": "10.1088/1742-5468/2008/10/P10008",
+        "article-title": "Fast unfolding of communities in large networks",
+        "volume": "10",
+        "author": "Blondel",
+        "year": "2008",
+        "journal-title": "J. Stat. Mech."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "657",
+        "DOI": "10.1111/j.1468-5957.2011.02244.x",
+        "article-title": "Improved inference in regression with overlapping observations",
+        "volume": "38",
+        "author": "Britten-Jones",
+        "year": "2011",
+        "journal-title": "J. Bus. Financ. Account."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0013",
+        "series-title": "The International CAPM Redux",
+        "author": "Brusa",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0014",
+        "first-page": "1",
+        "article-title": "Global returns' sensitivities to crisis shocks",
+        "volume": "30",
+        "author": "Calomiris",
+        "year": "2012",
+        "journal-title": "J. Int. Money Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1162/003355302753650274",
+        "article-title": "Fear of floating",
+        "volume": "117",
+        "author": "Calvo",
+        "year": "2002",
+        "journal-title": "Q. J. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "1509",
+        "DOI": "10.1093/rfs/hhm055",
+        "article-title": "Predicting excess stock returns out of sample: can anything beat the historical average?",
+        "volume": "21",
+        "author": "Campbell",
+        "year": "2008",
+        "journal-title": "Rev. Financ. Stud."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1257/0002828053828581",
+        "article-title": "Bond risk premia",
+        "volume": "95",
+        "author": "Cochrane",
+        "year": "2005",
+        "journal-title": "Am. Econ. Rev."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0018",
+        "first-page": "85",
+        "article-title": "Sovereign defaults: the price of haircuts",
+        "volume": "5",
+        "author": "Cruces",
+        "year": "2013",
+        "journal-title": "Am. Econ. J.: Macroecon."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "1375",
+        "DOI": "10.1287/mnsc.1070.0704",
+        "article-title": "Yahoo! for amazon: sentiment extraction from small talk on the Web",
+        "volume": "53",
+        "author": "Das",
+        "year": "2007",
+        "journal-title": "J. Manag. Sci."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1915",
+        "DOI": "10.1093/rfs/hhm075",
+        "article-title": "Optimal versus naive diversification: how inefficient is the 1/N portfolio strategy?",
+        "volume": "22",
+        "author": "DeMiguel",
+        "year": "2007",
+        "journal-title": "Rev. Financ. Stud."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2307/2525569",
+        "article-title": "The adjustment of stock prices to new information",
+        "volume": "10",
+        "author": "Fama",
+        "year": "1969",
+        "journal-title": "Int. Econ. Rev."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/0304-405X(88)90020-7",
+        "article-title": "Dividend yields and expected stock returns",
+        "volume": "22",
+        "author": "Fama",
+        "year": "1988",
+        "journal-title": "J. Financ. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0023",
+        "series-title": "Media Reinforcement in International Financial Markets",
+        "author": "Froot",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "1267",
+        "DOI": "10.1111/jofi.12027",
+        "article-title": "Sentiment during recessions",
+        "volume": "68",
+        "author": "Garcia",
+        "year": "2013",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0025",
+        "series-title": "J. Financ. Quant. Anal.",
+        "article-title": "Does unusual news forecast market stress?",
+        "author": "Glasserman",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0026",
+        "series-title": "Investor information choice with macro and micro information",
+        "author": "Glasserman",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "2145",
+        "DOI": "10.1111/jofi.12420",
+        "article-title": "Why invest in emerging markets? the role of conditional return asymmetry",
+        "volume": "71",
+        "author": "Ghysels",
+        "year": "2016",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0028",
+        "series-title": "Glmnet Vignette",
+        "author": "Hastie",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/j.jfineco.2015.03.007",
+        "article-title": "Are institutions informed about news?",
+        "volume": "117",
+        "author": "Hendershott",
+        "year": "2015",
+        "journal-title": "J. Financ. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.2469/faj.v73.n3.3",
+        "article-title": "News vs. sentiment: predicting stock returns from news stories",
+        "volume": "73",
+        "author": "Heston",
+        "year": "2017",
+        "journal-title": "Financ. Anal. J."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1017/S0022109009990469",
+        "article-title": "Predicting global stock returns'",
+        "volume": "45",
+        "author": "Hjalmarsson",
+        "year": "2010",
+        "journal-title": "J. Financ. Quant. Anal."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1093/rof/rfn002",
+        "article-title": "Short-run pain, long-run gain: the effects of financial liberalization",
+        "volume": "12",
+        "author": "Kaminsky",
+        "year": "2008",
+        "journal-title": "Rev. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0033",
+        "series-title": "Cracking the Emerging Markets Enigma",
+        "author": "Karolyi",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "1113",
+        "DOI": "10.1086/250042",
+        "article-title": "Law and finance",
+        "volume": "106",
+        "author": "La Porta",
+        "year": "1998",
+        "journal-title": "J. Polit. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_sbref0013a",
+        "series-title": "Resolution of banking crises: The good, the bad, and the ugly",
+        "author": "Laeven",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1111/j.1540-6261.2010.01625.x",
+        "article-title": "When is a liability not a liability? textual analysis, dictionaries, and 10-Ks",
+        "volume": "66",
+        "author": "Loughran",
+        "year": "2011",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0036",
+        "doi-asserted-by": "crossref",
+        "first-page": "873",
+        "DOI": "10.1016/j.jmva.2006.11.013",
+        "article-title": "Comparing clusterings–an information based distance",
+        "volume": "98",
+        "author": "Meila",
+        "year": "2007",
+        "journal-title": "J. Multivar. Anal."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0037",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1287/mksc.1120.0713",
+        "article-title": "Mine your own business: market structure surveillance through text mining",
+        "volume": "31",
+        "author": "Netzer",
+        "year": "2012",
+        "journal-title": "Mark. Sci."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0038",
+        "doi-asserted-by": "crossref",
+        "first-page": "8577",
+        "DOI": "10.1073/pnas.0601602103",
+        "article-title": "Modularity and community structure in networks",
+        "volume": "103",
+        "author": "Newman",
+        "year": "2006",
+        "journal-title": "Proc. Natl. Acad. Sci."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0039",
+        "article-title": "Finding and evaluating community structure in networks",
+        "volume": "69",
+        "author": "Newman",
+        "year": "2004",
+        "journal-title": "Phys. Rev. E"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1417",
+        "DOI": "10.2307/1911408",
+        "article-title": "Biases in dynamic models with fixed effects",
+        "volume": "49",
+        "author": "Nickell",
+        "year": "1981",
+        "journal-title": "Econometrica"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0041",
+        "doi-asserted-by": "crossref",
+        "first-page": "2129",
+        "DOI": "10.1111/j.1540-6261.1997.tb02755.x",
+        "article-title": "Winner-loser reversals in national stock market indices: can they be explained?",
+        "volume": "52",
+        "author": "Richards",
+        "year": "1997",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0042",
+        "first-page": "861",
+        "article-title": "Orange juice and weather",
+        "volume": "74",
+        "author": "Roll",
+        "year": "1984",
+        "journal-title": "Am. Econ. Rev."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0043",
+        "doi-asserted-by": "crossref",
+        "first-page": "1790",
+        "DOI": "10.1073/pnas.1512221112",
+        "article-title": "Lexical shifts, substantive changes, and continuity in State of the Union discourse",
+        "volume": "112",
+        "author": "Rule",
+        "year": "2015",
+        "journal-title": "Proc. Natl. Acad. Sci."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0044",
+        "series-title": "Measuring News Sentiment",
+        "author": "Shapiro",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "987",
+        "DOI": "10.1257/aer.107.4.967",
+        "article-title": "Narrative economics",
+        "volume": "107",
+        "author": "Shiller",
+        "year": "2017",
+        "journal-title": "Am. Econ. Rev."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0046",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1142/S2010139216500051",
+        "article-title": "Underreaction to news in the US stock market",
+        "volume": "6",
+        "author": "Sinha",
+        "year": "2016",
+        "journal-title": "Q. J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0047",
+        "doi-asserted-by": "crossref",
+        "first-page": "375",
+        "DOI": "10.1016/S0304-405X(99)00041-0",
+        "article-title": "Predictive regressions",
+        "volume": "54",
+        "author": "Stambaugh",
+        "year": "1999",
+        "journal-title": "J. Financ. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0048",
+        "doi-asserted-by": "crossref",
+        "first-page": "1139",
+        "DOI": "10.1111/j.1540-6261.2007.01232.x",
+        "article-title": "Giving content to investor sentiment: the role of media in the stock market",
+        "volume": "62",
+        "author": "Tetlock",
+        "year": "2007",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0049",
+        "doi-asserted-by": "crossref",
+        "first-page": "1437",
+        "DOI": "10.1111/j.1540-6261.2008.01362.x",
+        "article-title": "More than words: quantifying language to measure firms’ fundamentals",
+        "volume": "63",
+        "author": "Tetlock",
+        "year": "2008",
+        "journal-title": "J. Financ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "3520",
+        "DOI": "10.1093/rfs/hhq052",
+        "article-title": "Does public financial news resolve asymmetric information?",
+        "volume": "23",
+        "author": "Tetlock",
+        "year": "2010",
+        "journal-title": "Rev. Financ. Stud."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0051",
+        "doi-asserted-by": "crossref",
+        "first-page": "1481",
+        "DOI": "10.1093/rfs/hhq141",
+        "article-title": "All the news that's fit to reprint: do investors react to stale information?",
+        "volume": "24",
+        "author": "Tetlock",
+        "year": "2011",
+        "journal-title": "Rev. Financ. Stud."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0052",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.jfineco.2010.08.016",
+        "article-title": "Simple formulas for standard errors that cluster by both firm and time",
+        "volume": "99",
+        "author": "Thompson",
+        "year": "2011",
+        "journal-title": "J. Financ. Econ."
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0053",
+        "series-title": "Nowcasting Using News Topics: Big Data Versus Big Bank",
+        "author": "Thorsrud",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.jfineco.2018.11.009_bib0054",
+        "first-page": "267",
+        "article-title": "Regression shrinkage and selection via the lasso",
+        "volume": "58",
+        "author": "Tibshirani",
+        "year": "1996",
+        "journal-title": "J. R. Stat. Soc. Ser. A"
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0304405X18303180?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0304405X18303180?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2019-06-13T17:20:50Z",
+      "timestamp": 1560446450000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X18303180"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          8
+        ]
+      ]
+    },
+    "references-count": 55,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0304405X18303180"
+    ],
+    "URL": "https://doi.org/10.1016/j.jfineco.2018.11.009",
+    "relation": {},
+    "ISSN": [
+      "0304-405X"
+    ],
+    "issn-type": [
+      {
+        "value": "0304-405X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "How news and its context drive risk and returns around the world",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Financial Economics",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jfineco.2018.11.009",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2019 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

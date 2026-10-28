@@ -1,0 +1,964 @@
+{
+  "id": "https://openalex.org/W4403701590",
+  "doi": "https://doi.org/10.1002/jae.3095",
+  "title": "Exploiting News Analytics for Volatility Forecasting",
+  "display_name": "Exploiting News Analytics for Volatility Forecasting",
+  "publication_year": 2024,
+  "publication_date": "2024-10-22",
+  "ids": {
+    "openalex": "https://openalex.org/W4403701590",
+    "doi": "https://doi.org/10.1002/jae.3095"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1002/jae.3095",
+    "doi": "https://doi.org/10.1002/jae.3095",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/jae.3095",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.3095",
+    "source": {
+      "id": "https://openalex.org/S85739584",
+      "display_name": "Journal of Applied Econometrics",
+      "issn_l": "0883-7252",
+      "issn": [
+        "0883-7252",
+        "1099-1255"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a-star",
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "erih-plus",
+        "jufo-2",
+        "ki-jl-2",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Applied Econometrics",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.3095",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076173787",
+        "display_name": "Simon Tranberg Bodilsen",
+        "orcid": "https://orcid.org/0000-0002-6735-8475",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-6735-8475"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I204337017",
+          "display_name": "Aarhus University",
+          "ror": "https://ror.org/01aj84f44",
+          "country_code": "DK",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I204337017"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210148097",
+          "display_name": "Danish Dairy Research Foundation",
+          "ror": "https://ror.org/04qdq0b46",
+          "country_code": "DK",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210148097"
+          ]
+        }
+      ],
+      "countries": [
+        "DK"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Simon Tranberg Bodilsen",
+      "raw_affiliation_strings": [
+        "Danish Finance Institute (DFI)  Aarhus Denmark",
+        "Department of Economics and Business Economics Aarhus University  Aarhus Denmark",
+        "Danish Finance Institute (DFI), Aarhus, Denmark",
+        "Department of Economics and Business Economics, Aarhus University, Aarhus, Denmark"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Danish Finance Institute (DFI)  Aarhus Denmark",
+          "institution_ids": [
+            "https://openalex.org/I4210148097"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Economics and Business Economics Aarhus University  Aarhus Denmark",
+          "institution_ids": [
+            "https://openalex.org/I204337017"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Danish Finance Institute (DFI), Aarhus, Denmark",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Economics and Business Economics, Aarhus University, Aarhus, Denmark",
+          "institution_ids": [
+            "https://openalex.org/I204337017"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5024279851",
+        "display_name": "Asger Lunde",
+        "orcid": "https://orcid.org/0000-0002-0805-0892",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-0805-0892"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I114027177",
+          "display_name": "University of North Carolina at Chapel Hill",
+          "ror": "https://ror.org/0130frc33",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114027177"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Asger Lunde",
+      "raw_affiliation_strings": [
+        "Copenhagen Economics  Copenhagen Denmark",
+        "Department of Economics University of North Carolina  Chapel Hill North Carolina USA",
+        "Copenhagen Economics, Copenhagen, Denmark",
+        "Department of Economics, University of North Carolina, Chapel Hill, North Carolina, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Copenhagen Economics  Copenhagen Denmark",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Economics University of North Carolina  Chapel Hill North Carolina USA",
+          "institution_ids": [
+            "https://openalex.org/I114027177"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Copenhagen Economics, Copenhagen, Denmark",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Department of Economics, University of North Carolina, Chapel Hill, North Carolina, USA",
+          "institution_ids": [
+            "https://openalex.org/I114027177"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5076173787"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I204337017",
+    "https://openalex.org/I4210148097"
+  ],
+  "apc_list": {
+    "value": 3840,
+    "currency": "USD",
+    "value_usd": 3840
+  },
+  "apc_paid": {
+    "value": 3840,
+    "currency": "USD",
+    "value_usd": 3840
+  },
+  "fwci": 2.8592,
+  "has_fulltext": true,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.91403919,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "40",
+    "issue": "1",
+    "first_page": "18",
+    "last_page": "36"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10282",
+    "display_name": "Financial Risk and Volatility Modeling",
+    "score": 0.9818999767303467,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2003",
+      "display_name": "Finance"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/20",
+      "display_name": "Economics, Econometrics and Finance"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10282",
+      "display_name": "Financial Risk and Volatility Modeling",
+      "score": 0.9818999767303467,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11326",
+      "display_name": "Stock Market Forecasting Methods",
+      "score": 0.009200000204145908,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10047",
+      "display_name": "Financial Markets and Investment Strategies",
+      "score": 0.0052999998442828655,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/news-sentiment",
+      "display_name": "news sentiment",
+      "score": 0.8510000109672546
+    },
+    {
+      "id": "https://openalex.org/keywords/stock-market-volatility",
+      "display_name": "stock market volatility",
+      "score": 0.9359999895095825
+    },
+    {
+      "id": "https://openalex.org/keywords/volatility-forecasting",
+      "display_name": "volatility forecasting",
+      "score": 0.9639999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/macroeconomic-news",
+      "display_name": "macroeconomic news",
+      "score": 0.9269999861717224
+    },
+    {
+      "id": "https://openalex.org/keywords/corporate-news",
+      "display_name": "company news",
+      "score": 0.9980000257492065
+    },
+    {
+      "id": "https://openalex.org/keywords/realized-volatility",
+      "display_name": "realized volatility",
+      "score": 0.8510000109672546
+    },
+    {
+      "id": "https://openalex.org/keywords/s-p-500",
+      "display_name": "S&P 500",
+      "score": 0.796999990940094
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C79158427",
+      "wikidata": "https://www.wikidata.org/wiki/Q485396",
+      "display_name": "Analytics",
+      "level": 2,
+      "score": 0.6998643279075623
+    },
+    {
+      "id": "https://openalex.org/C91602232",
+      "wikidata": "https://www.wikidata.org/wiki/Q756115",
+      "display_name": "Volatility (finance)",
+      "level": 2,
+      "score": 0.6631699800491333
+    },
+    {
+      "id": "https://openalex.org/C103648661",
+      "wikidata": "https://www.wikidata.org/wiki/Q7019453",
+      "display_name": "News analytics",
+      "level": 2,
+      "score": 0.5165426135063171
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.5041342973709106
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.47132399678230286
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.43187129497528076
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.2910516858100891
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.17107689380645752
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1002/jae.3095",
+      "doi": "https://doi.org/10.1002/jae.3095",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/jae.3095",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.3095",
+      "source": {
+        "id": "https://openalex.org/S85739584",
+        "display_name": "Journal of Applied Econometrics",
+        "issn_l": "0883-7252",
+        "issn": [
+          "0883-7252",
+          "1099-1255"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "jufo-2",
+          "ki-jl-2",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Applied Econometrics",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "doi:10.2139/ssrn.4401032",
+      "doi": "https://doi.org/10.2139/ssrn.4401032",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.4401032",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmh:oai:pure.atira.dk:openaire/22abc97c-146f-4215-90a8-01e12037a029",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.scopus.com/pages/publications/85206927392",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400063",
+        "display_name": "Scopus (Elsevier)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Bodilsen, S T & Lunde, A 2025, 'Exploiting News Analytics for Volatility Forecasting', Journal of Applied Econometrics, vol. 40, no. 1, pp. 18-36. https://doi.org/10.1002/jae.3095",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1002/jae.3095",
+    "doi": "https://doi.org/10.1002/jae.3095",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/jae.3095",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.3095",
+    "source": {
+      "id": "https://openalex.org/S85739584",
+      "display_name": "Journal of Applied Econometrics",
+      "issn_l": "0883-7252",
+      "issn": [
+        "0883-7252",
+        "1099-1255"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a-star",
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "erih-plus",
+        "jufo-2",
+        "ki-jl-2",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Applied Econometrics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "sustainable_development_goals_aurora": [
+    {
+      "score": 0.44999998807907104,
+      "display_name": "Decent work and economic growth",
+      "id": "https://metadata.un.org/sdg/8"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4403701590.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4403701590.grobid-xml"
+  },
+  "referenced_works_count": 55,
+  "referenced_works": [
+    "https://openalex.org/W1241192787",
+    "https://openalex.org/W1545599178",
+    "https://openalex.org/W1964864228",
+    "https://openalex.org/W2000303290",
+    "https://openalex.org/W2001340398",
+    "https://openalex.org/W2033815796",
+    "https://openalex.org/W2038295726",
+    "https://openalex.org/W2053752134",
+    "https://openalex.org/W2066815740",
+    "https://openalex.org/W2067976363",
+    "https://openalex.org/W2089786693",
+    "https://openalex.org/W2093665090",
+    "https://openalex.org/W2096669492",
+    "https://openalex.org/W2098347405",
+    "https://openalex.org/W2110752212",
+    "https://openalex.org/W2117033046",
+    "https://openalex.org/W2117178635",
+    "https://openalex.org/W2123970954",
+    "https://openalex.org/W2125536334",
+    "https://openalex.org/W2128569377",
+    "https://openalex.org/W2129196569",
+    "https://openalex.org/W2137387582",
+    "https://openalex.org/W2144031751",
+    "https://openalex.org/W2146134639",
+    "https://openalex.org/W2150405201",
+    "https://openalex.org/W2150499573",
+    "https://openalex.org/W2157403008",
+    "https://openalex.org/W2158595111",
+    "https://openalex.org/W2166760949",
+    "https://openalex.org/W2171468534",
+    "https://openalex.org/W2172164632",
+    "https://openalex.org/W2293684740",
+    "https://openalex.org/W2326968956",
+    "https://openalex.org/W2528153964",
+    "https://openalex.org/W2537345220",
+    "https://openalex.org/W2595186334",
+    "https://openalex.org/W2601780063",
+    "https://openalex.org/W2745672448",
+    "https://openalex.org/W2853380097",
+    "https://openalex.org/W2900532930",
+    "https://openalex.org/W2946105121",
+    "https://openalex.org/W3022041122",
+    "https://openalex.org/W3043359482",
+    "https://openalex.org/W3097969770",
+    "https://openalex.org/W3117173671",
+    "https://openalex.org/W3121532596",
+    "https://openalex.org/W3125362016",
+    "https://openalex.org/W3125380794",
+    "https://openalex.org/W3125987794",
+    "https://openalex.org/W3126053622",
+    "https://openalex.org/W3126081245",
+    "https://openalex.org/W3126418904",
+    "https://openalex.org/W4388114226",
+    "https://openalex.org/W4394875011",
+    "https://openalex.org/W4401461043"
+  ],
+  "related_works": [
+    "https://openalex.org/W2291973775",
+    "https://openalex.org/W2172176281",
+    "https://openalex.org/W2326995271",
+    "https://openalex.org/W2313663880",
+    "https://openalex.org/W4389473457",
+    "https://openalex.org/W4246333074",
+    "https://openalex.org/W2753588648",
+    "https://openalex.org/W1550147621",
+    "https://openalex.org/W3125781409",
+    "https://openalex.org/W3121959963"
+  ],
+  "abstract_inverted_index": {
+    "ABSTRACT": [
+      0
+    ],
+    "This": [
+      1
+    ],
+    "study": [
+      2
+    ],
+    "investigates": [
+      3
+    ],
+    "the": [
+      4,
+      24,
+      36,
+      50,
+      65,
+      71,
+      85,
+      90,
+      96
+    ],
+    "potential": [
+      5
+    ],
+    "of": [
+      6,
+      20,
+      26,
+      38,
+      67,
+      92,
+      99
+    ],
+    "news": [
+      7,
+      41,
+      69,
+      77,
+      97,
+      101
+    ],
+    "sentiment": [
+      8,
+      25,
+      37,
+      66,
+      78
+    ],
+    "in": [
+      9,
+      59,
+      70,
+      84
+    ],
+    "predicting": [
+      10
+    ],
+    "stock": [
+      11
+    ],
+    "market": [
+      12
+    ],
+    "volatility.": [
+      13
+    ],
+    "We": [
+      14
+    ],
+    "augment": [
+      15
+    ],
+    "traditional": [
+      16
+    ],
+    "time": [
+      17
+    ],
+    "series": [
+      18
+    ],
+    "models": [
+      19
+    ],
+    "realized": [
+      21
+    ],
+    "volatility": [
+      22,
+      44,
+      61,
+      112
+    ],
+    "with": [
+      23
+    ],
+    "macroeconomic": [
+      27,
+      40,
+      68
+    ],
+    "and": [
+      28,
+      49
+    ],
+    "firm‐specific": [
+      29,
+      76,
+      100
+    ],
+    "news.": [
+      30
+    ],
+    "Our": [
+      31
+    ],
+    "results": [
+      32
+    ],
+    "demonstrate": [
+      33
+    ],
+    "that": [
+      34
+    ],
+    "incorporating": [
+      35
+    ],
+    "domestic": [
+      39
+    ],
+    "significantly": [
+      42,
+      109
+    ],
+    "improves": [
+      43,
+      110
+    ],
+    "predictions": [
+      45,
+      62
+    ],
+    "for": [
+      46
+    ],
+    "individual": [
+      47
+    ],
+    "stocks": [
+      48
+    ],
+    "S&P": [
+      51
+    ],
+    "500": [
+      52
+    ],
+    "Index.": [
+      53
+    ],
+    "Notably,": [
+      54
+    ],
+    "we": [
+      55
+    ],
+    "find": [
+      56
+    ],
+    "substantial": [
+      57
+    ],
+    "enhancements": [
+      58
+    ],
+    "long‐horizon": [
+      60
+    ],
+    "when": [
+      63
+    ],
+    "including": [
+      64
+    ],
+    "regression": [
+      72
+    ],
+    "models.": [
+      73
+    ],
+    "In": [
+      74
+    ],
+    "contrast,": [
+      75
+    ],
+    "shows": [
+      79
+    ],
+    "only": [
+      80
+    ],
+    "modest": [
+      81
+    ],
+    "predictive": [
+      82
+    ],
+    "power": [
+      83
+    ],
+    "general": [
+      86
+    ],
+    "framework.": [
+      87
+    ],
+    "However,": [
+      88
+    ],
+    "expanding": [
+      89
+    ],
+    "set": [
+      91
+    ],
+    "predictors": [
+      93
+    ],
+    "to": [
+      94
+    ],
+    "include": [
+      95
+    ],
+    "count": [
+      98
+    ],
+    "occurring": [
+      102
+    ],
+    "overnight": [
+      103
+    ],
+    "between": [
+      104
+    ],
+    "two": [
+      105
+    ],
+    "consecutive": [
+      106
+    ],
+    "trading": [
+      107
+    ],
+    "periods": [
+      108
+    ],
+    "one‐period‐ahead": [
+      111
+    ],
+    "forecasts.": [
+      113
+    ],
+    "JEL": [
+      114
+    ],
+    "Classification:": [
+      115
+    ],
+    "C53,": [
+      116
+    ],
+    "C55,": [
+      117
+    ],
+    "C58,": [
+      118
+    ],
+    "G14,": [
+      119
+    ],
+    "G17": [
+      120
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-10-16T09:59:22.235173",
+  "created_date": "2025-10-10T00:00:00"
+}

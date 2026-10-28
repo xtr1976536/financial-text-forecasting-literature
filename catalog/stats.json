@@ -1,0 +1,23 @@
+{
+  "total": 438,
+  "original": 420,
+  "small_model_supplement": 7,
+  "coverage_supplement": 11,
+  "representatives": 85,
+  "technical_axes": 39,
+  "viewpoint_axes": 23,
+  "public_pdfs": 96,
+  "link_only": 342,
+  "categories": {
+    "文本增量：收益与价格": 147,
+    "波动率、尾部与财务风险": 53,
+    "融合、对齐、事件与图结构": 75,
+    "词典、情绪、嵌入与叙事": 50,
+    "评估、泄漏、稳健性与反证": 14,
+    "小型语言模型与时序适配": 10,
+    "数据集、基准与综述": 10,
+    "宏观、央行与跨资产": 53,
+    "智能体、决策与其他邻接研究": 26
+  },
+  "as_of": "2026-10-28"
+}

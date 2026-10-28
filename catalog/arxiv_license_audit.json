@@ -1,0 +1,672 @@
+[
+  {
+    "id": "F001",
+    "license_page": "https://arxiv.org/abs/2304.07619",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F004",
+    "license_page": "https://arxiv.org/abs/2610.25468",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F005",
+    "license_page": "https://arxiv.org/abs/2610.16131",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F006",
+    "license_page": "https://arxiv.org/abs/2606.12210",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F007",
+    "license_page": "https://arxiv.org/abs/2609.38523",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F008",
+    "license_page": "https://arxiv.org/abs/2607.28496",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F009",
+    "license_page": "https://arxiv.org/abs/2609.23703",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F010",
+    "license_page": "https://arxiv.org/abs/2603.11838",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F011",
+    "license_page": "https://arxiv.org/abs/2610.30564",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F012",
+    "license_page": "https://arxiv.org/abs/2610.22745",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F013",
+    "license_page": "https://arxiv.org/abs/2610.22043",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F014",
+    "license_page": "https://arxiv.org/abs/2603.26797",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F015",
+    "license_page": "https://arxiv.org/abs/2610.24268",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F016",
+    "license_page": "https://arxiv.org/abs/2610.21659",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F017",
+    "license_page": "https://arxiv.org/abs/2608.04200",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F018",
+    "license_page": "https://arxiv.org/abs/2610.36083",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F019",
+    "license_page": "https://arxiv.org/abs/2610.19720",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F021",
+    "license_page": "https://arxiv.org/abs/2510.15691",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F022",
+    "license_page": "https://arxiv.org/abs/2512.23847",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F023",
+    "license_page": "https://arxiv.org/abs/2510.20699",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F024",
+    "license_page": "https://arxiv.org/abs/2512.19484",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F025",
+    "license_page": "https://arxiv.org/abs/2502.21206",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F030",
+    "license_page": "https://arxiv.org/abs/2108.00480",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F052",
+    "license_page": "https://arxiv.org/abs/2603.19286",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F053",
+    "license_page": "https://arxiv.org/abs/2609.32773",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F054",
+    "license_page": "https://arxiv.org/abs/2602.00086",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F055",
+    "license_page": "https://arxiv.org/abs/2607.24875",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F061",
+    "license_page": "https://arxiv.org/abs/2609.38869",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F062",
+    "license_page": "https://arxiv.org/abs/2609.36914",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F084",
+    "license_page": "https://arxiv.org/abs/2601.02677",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F106",
+    "license_page": "https://arxiv.org/abs/2502.05186",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F113",
+    "license_page": "https://arxiv.org/abs/2406.06594",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F117",
+    "license_page": "https://arxiv.org/abs/2504.10078",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F125",
+    "license_page": "https://arxiv.org/abs/2501.16621",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F126",
+    "license_page": "https://arxiv.org/abs/2503.19767",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F127",
+    "license_page": "https://arxiv.org/abs/2510.23112",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F128",
+    "license_page": "https://arxiv.org/abs/2508.20707",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F129",
+    "license_page": "https://arxiv.org/abs/2508.13327",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F130",
+    "license_page": "https://arxiv.org/abs/2504.09257",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F131",
+    "license_page": "https://arxiv.org/abs/2502.04592",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F132",
+    "license_page": "https://arxiv.org/abs/2505.07871",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F145",
+    "license_page": "https://arxiv.org/abs/2601.06088",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F146",
+    "license_page": "https://arxiv.org/abs/2507.20535",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F147",
+    "license_page": "https://arxiv.org/abs/2510.21604",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F148",
+    "license_page": "https://arxiv.org/abs/2503.10957",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F149",
+    "license_page": "https://arxiv.org/abs/2502.05878",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F152",
+    "license_page": "https://arxiv.org/abs/2503.03612",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F160",
+    "license_page": "https://arxiv.org/abs/2510.19203",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F176",
+    "license_page": "https://arxiv.org/abs/2302.13999",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F179",
+    "license_page": "https://arxiv.org/abs/2402.06698",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F183",
+    "license_page": "https://arxiv.org/abs/2402.12659",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F187",
+    "license_page": "https://arxiv.org/abs/2411.01368",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F194",
+    "license_page": "https://arxiv.org/abs/2402.03659",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F199",
+    "license_page": "https://arxiv.org/abs/2407.18103",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F203",
+    "license_page": "https://arxiv.org/abs/2410.19025",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F207",
+    "license_page": "https://arxiv.org/abs/2411.06391",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F208",
+    "license_page": "https://arxiv.org/abs/2404.07452",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F212",
+    "license_page": "https://arxiv.org/abs/2412.06836",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F214",
+    "license_page": "https://arxiv.org/abs/2410.00024",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F217",
+    "license_page": "https://arxiv.org/abs/2403.00782",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F220",
+    "license_page": "https://arxiv.org/abs/2309.17322",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F221",
+    "license_page": "https://arxiv.org/abs/2206.00648",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F228",
+    "license_page": "https://arxiv.org/abs/2304.05351",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F232",
+    "license_page": "https://arxiv.org/abs/2306.03763",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F239",
+    "license_page": "https://arxiv.org/abs/2002.02010",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F261",
+    "license_page": "https://arxiv.org/abs/2206.06174",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F264",
+    "license_page": "https://arxiv.org/abs/2210.12464",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F268",
+    "license_page": "https://arxiv.org/abs/2210.00883",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F275",
+    "license_page": "https://arxiv.org/abs/2007.12620",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F280",
+    "license_page": "https://arxiv.org/abs/2107.08721",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F290",
+    "license_page": "https://arxiv.org/abs/2112.13593",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F294",
+    "license_page": "https://arxiv.org/abs/2001.09466",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F299",
+    "license_page": "https://arxiv.org/abs/2006.08097",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F308",
+    "license_page": "https://arxiv.org/abs/2005.11706",
+    "license_urls": [
+      "http://creativecommons.org/publicdomain/zero/1.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F314",
+    "license_page": "https://arxiv.org/abs/2004.01878",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F322",
+    "license_page": "https://arxiv.org/abs/1908.10063",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F326",
+    "license_page": "https://arxiv.org/abs/1906.02868",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F331",
+    "license_page": "https://arxiv.org/abs/2003.08137",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F342",
+    "license_page": "https://arxiv.org/abs/1912.10806",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F343",
+    "license_page": "https://arxiv.org/abs/1903.06478",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F352",
+    "license_page": "https://arxiv.org/abs/1902.04994",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F353",
+    "license_page": "https://arxiv.org/abs/1809.03684",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F357",
+    "license_page": "https://arxiv.org/abs/1801.07047",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F359",
+    "license_page": "https://arxiv.org/abs/1811.06173",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F362",
+    "license_page": "https://arxiv.org/abs/1812.10479",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F367",
+    "license_page": "https://arxiv.org/abs/1702.01978",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F376",
+    "license_page": "https://arxiv.org/abs/1707.07585",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F380",
+    "license_page": "https://arxiv.org/abs/1610.09225",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F388",
+    "license_page": "https://arxiv.org/abs/1506.07220",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F408",
+    "license_page": "https://arxiv.org/abs/1010.3003",
+    "license_urls": [],
+    "status": "not_confirmed"
+  },
+  {
+    "id": "F424",
+    "license_page": "https://arxiv.org/abs/2404.18543",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F425",
+    "license_page": "https://arxiv.org/abs/2609.15344",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "status": "explicit_cc"
+  },
+  {
+    "id": "F426",
+    "license_page": "https://arxiv.org/abs/2402.02368",
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "status": "explicit_cc"
+  }
+]

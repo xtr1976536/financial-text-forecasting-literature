@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/QsOD1vH8acTaU4ggDmenK4eAM0g</id>
+  <title>arXiv Query: search_query=&amp;id_list=1712.02136,2310.01728,2403.07815,2310.07820,2402.18485,2311.13743,2305.08524&amp;start=0&amp;max_results=20</title>
+  <updated>2026-10-28T12:57:56Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=20&amp;id_list=1712.02136,2310.01728,2403.07815,2310.07820,2402.18485,2311.13743,2305.08524" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>7</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2311.13743v2</id>
+    <title>FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design</title>
+    <updated>2023-12-03T16:18:55Z</updated>
+    <link href="https://arxiv.org/abs/2311.13743v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2311.13743v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent advancements in Large Language Models (LLMs) have exhibited notable efficacy in question-answering (QA) tasks across diverse domains. Their prowess in integrating extensive web knowledge has fueled interest in developing LLM-based autonomous agents. While LLMs are efficient in decoding human instructions and deriving solutions by holistically processing historical inputs, transitioning to purpose-driven agents requires a supplementary rational architecture to process multi-source information, establish reasoning chains, and prioritize critical tasks. Addressing this, we introduce \textsc{FinMem}, a novel LLM-based agent framework devised for financial decision-making. It encompasses three core modules: Profiling, to customize the agent's characteristics; Memory, with layered message processing, to aid the agent in assimilating hierarchical financial data; and Decision-making, to convert insights gained from memories into investment decisions. Notably, \textsc{FinMem}'s memory module aligns closely with the cognitive structure of human traders, offering robust interpretability and real-time tuning. Its adjustable cognitive span allows for the retention of critical information beyond human perceptual limits, thereby enhancing trading outcomes. This framework enables the agent to self-evolve its professional knowledge, react agilely to new investment cues, and continuously refine trading decisions in the volatile financial environment. We first compare \textsc{FinMem} with various algorithmic agents on a scalable real-world financial dataset, underscoring its leading trading performance in stocks. We then fine-tuned the agent's perceptual span and character setting to achieve a significantly enhanced trading performance. Collectively, \textsc{FinMem} presents a cutting-edge LLM agent framework for automated trading, boosting cumulative investment returns.</summary>
+    <category term="q-fin.CP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-11-23T00:24:40Z</published>
+    <arxiv:primary_category term="q-fin.CP"/>
+    <author>
+      <name>Yangyang Yu</name>
+    </author>
+    <author>
+      <name>Haohang Li</name>
+    </author>
+    <author>
+      <name>Zhi Chen</name>
+    </author>
+    <author>
+      <name>Yuechen Jiang</name>
+    </author>
+    <author>
+      <name>Yang Li</name>
+    </author>
+    <author>
+      <name>Denghui Zhang</name>
+    </author>
+    <author>
+      <name>Rong Liu</name>
+    </author>
+    <author>
+      <name>Jordan W. Suchow</name>
+    </author>
+    <author>
+      <name>Khaldoun Khashanah</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.18485v3</id>
+    <title>A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist</title>
+    <updated>2024-06-28T10:35:56Z</updated>
+    <link href="https://arxiv.org/abs/2402.18485v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.18485v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Financial trading is a crucial component of the markets, informed by a multimodal information landscape encompassing news, prices, and Kline charts, and encompasses diverse tasks such as quantitative trading and high-frequency trading with various assets. While advanced AI techniques like deep learning and reinforcement learning are extensively utilized in finance, their application in financial trading tasks often faces challenges due to inadequate handling of multimodal data and limited generalizability across various tasks. To address these challenges, we present FinAgent, a multimodal foundational agent with tool augmentation for financial trading. FinAgent's market intelligence module processes a diverse range of data-numerical, textual, and visual-to accurately analyze the financial market. Its unique dual-level reflection module not only enables rapid adaptation to market dynamics but also incorporates a diversified memory retrieval system, enhancing the agent's ability to learn from historical data and improve decision-making processes. The agent's emphasis on reasoning for actions fosters trust in its financial decisions. Moreover, FinAgent integrates established trading strategies and expert insights, ensuring that its trading approaches are both data-driven and rooted in sound financial principles. With comprehensive experiments on 6 financial datasets, including stocks and Crypto, FinAgent significantly outperforms 9 state-of-the-art baselines in terms of 6 financial metrics with over 36% average improvement on profit. Specifically, a 92.27% return (a 84.39% relative improvement) is achieved on one dataset. Notably, FinAgent is the first advanced multimodal foundation agent designed for financial trading tasks.</summary>
+    <category term="q-fin.TR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-28T17:06:54Z</published>
+    <arxiv:primary_category term="q-fin.TR"/>
+    <author>
+      <name>Wentao Zhang</name>
+    </author>
+    <author>
+      <name>Lingxuan Zhao</name>
+    </author>
+    <author>
+      <name>Haochong Xia</name>
+    </author>
+    <author>
+      <name>Shuo Sun</name>
+    </author>
+    <author>
+      <name>Jiaze Sun</name>
+    </author>
+    <author>
+      <name>Molei Qin</name>
+    </author>
+    <author>
+      <name>Xinyi Li</name>
+    </author>
+    <author>
+      <name>Yuqing Zhao</name>
+    </author>
+    <author>
+      <name>Yilei Zhao</name>
+    </author>
+    <author>
+      <name>Xinyu Cai</name>
+    </author>
+    <author>
+      <name>Longtao Zheng</name>
+    </author>
+    <author>
+      <name>Xinrun Wang</name>
+    </author>
+    <author>
+      <name>Bo An</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2305.08524v2</id>
+    <title>Measuring Consistency in Text-based Financial Forecasting Models</title>
+    <updated>2023-06-02T05:13:40Z</updated>
+    <link href="https://arxiv.org/abs/2305.08524v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2305.08524v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Financial forecasting has been an important and active area of machine learning research, as even the most modest advantage in predictive accuracy can be parlayed into significant financial gains. Recent advances in natural language processing (NLP) bring the opportunity to leverage textual data, such as earnings reports of publicly traded companies, to predict the return rate for an asset. However, when dealing with such a sensitive task, the consistency of models -- their invariance under meaning-preserving alternations in input -- is a crucial property for building user trust. Despite this, current financial forecasting methods do not consider consistency. To address this problem, we propose FinTrust, an evaluation tool that assesses logical consistency in financial text. Using FinTrust, we show that the consistency of state-of-the-art NLP models for financial forecasting is poor. Our analysis of the performance degradation caused by meaning-preserving alternations suggests that current text-based methods are not suitable for robustly predicting market information. All resources are available at https://github.com/yingpengma/fintrust.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-05-15T10:32:26Z</published>
+    <arxiv:comment>Accepted to ACL 2023 Main Conference</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Linyi Yang</name>
+    </author>
+    <author>
+      <name>Yingpeng Ma</name>
+    </author>
+    <author>
+      <name>Yue Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.07820v3</id>
+    <title>Large Language Models Are Zero-Shot Time Series Forecasters</title>
+    <updated>2024-08-12T00:43:56Z</updated>
+    <link href="https://arxiv.org/abs/2310.07820v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.07820v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>By encoding time series as a string of numerical digits, we can frame time series forecasting as next-token prediction in text. Developing this approach, we find that large language models (LLMs) such as GPT-3 and LLaMA-2 can surprisingly zero-shot extrapolate time series at a level comparable to or exceeding the performance of purpose-built time series models trained on the downstream tasks. To facilitate this performance, we propose procedures for effectively tokenizing time series data and converting discrete distributions over tokens into highly flexible densities over continuous values. We argue the success of LLMs for time series stems from their ability to naturally represent multimodal distributions, in conjunction with biases for simplicity, and repetition, which align with the salient features in many time series, such as repeated seasonal trends. We also show how LLMs can naturally handle missing data without imputation through non-numerical text, accommodate textual side information, and answer questions to help explain predictions. While we find that increasing model size generally improves performance on time series, we show GPT-4 can perform worse than GPT-3 because of how it tokenizes numbers, and poor uncertainty calibration, which is likely the result of alignment interventions such as RLHF.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-11T19:01:28Z</published>
+    <arxiv:comment>NeurIPS 2023. Code available at: https://github.com/ngruver/llmtime</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Nate Gruver</name>
+    </author>
+    <author>
+      <name>Marc Finzi</name>
+    </author>
+    <author>
+      <name>Shikai Qiu</name>
+    </author>
+    <author>
+      <name>Andrew Gordon Wilson</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2403.07815v3</id>
+    <title>Chronos: Learning the Language of Time Series</title>
+    <updated>2024-11-04T17:42:45Z</updated>
+    <link href="https://arxiv.org/abs/2403.07815v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2403.07815v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce Chronos, a simple yet effective framework for pretrained probabilistic time series models. Chronos tokenizes time series values using scaling and quantization into a fixed vocabulary and trains existing transformer-based language model architectures on these tokenized time series via the cross-entropy loss. We pretrained Chronos models based on the T5 family (ranging from 20M to 710M parameters) on a large collection of publicly available datasets, complemented by a synthetic dataset that we generated via Gaussian processes to improve generalization. In a comprehensive benchmark consisting of 42 datasets, and comprising both classical local models and deep learning methods, we show that Chronos models: (a) significantly outperform other methods on datasets that were part of the training corpus; and (b) have comparable and occasionally superior zero-shot performance on new datasets, relative to methods that were trained specifically on them. Our results demonstrate that Chronos models can leverage time series data from diverse domains to improve zero-shot accuracy on unseen forecasting tasks, positioning pretrained models as a viable tool to greatly simplify forecasting pipelines.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-03-12T16:53:54Z</published>
+    <arxiv:comment>Code and model checkpoints available at https://github.com/amazon-science/chronos-forecasting</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Abdul Fatir Ansari</name>
+    </author>
+    <author>
+      <name>Lorenzo Stella</name>
+    </author>
+    <author>
+      <name>Caner Turkmen</name>
+    </author>
+    <author>
+      <name>Xiyuan Zhang</name>
+    </author>
+    <author>
+      <name>Pedro Mercado</name>
+    </author>
+    <author>
+      <name>Huibin Shen</name>
+    </author>
+    <author>
+      <name>Oleksandr Shchur</name>
+    </author>
+    <author>
+      <name>Syama Sundar Rangapuram</name>
+    </author>
+    <author>
+      <name>Sebastian Pineda Arango</name>
+    </author>
+    <author>
+      <name>Shubham Kapoor</name>
+    </author>
+    <author>
+      <name>Jasper Zschiegner</name>
+    </author>
+    <author>
+      <name>Danielle C. Maddix</name>
+    </author>
+    <author>
+      <name>Hao Wang</name>
+    </author>
+    <author>
+      <name>Michael W. Mahoney</name>
+    </author>
+    <author>
+      <name>Kari Torkkola</name>
+    </author>
+    <author>
+      <name>Andrew Gordon Wilson</name>
+    </author>
+    <author>
+      <name>Michael Bohlke-Schneider</name>
+    </author>
+    <author>
+      <name>Yuyang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.01728v2</id>
+    <title>Time-LLM: Time Series Forecasting by Reprogramming Large Language Models</title>
+    <updated>2024-01-29T06:27:53Z</updated>
+    <link href="https://arxiv.org/abs/2310.01728v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.01728v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Time series forecasting holds significant importance in many real-world dynamic systems and has been extensively studied. Unlike natural language process (NLP) and computer vision (CV), where a single large model can tackle multiple tasks, models for time series forecasting are often specialized, necessitating distinct designs for different tasks and applications. While pre-trained foundation models have made impressive strides in NLP and CV, their development in time series domains has been constrained by data sparsity. Recent studies have revealed that large language models (LLMs) possess robust pattern recognition and reasoning abilities over complex sequences of tokens. However, the challenge remains in effectively aligning the modalities of time series data and natural language to leverage these capabilities. In this work, we present Time-LLM, a reprogramming framework to repurpose LLMs for general time series forecasting with the backbone language models kept intact. We begin by reprogramming the input time series with text prototypes before feeding it into the frozen LLM to align the two modalities. To augment the LLM's ability to reason with time series data, we propose Prompt-as-Prefix (PaP), which enriches the input context and directs the transformation of reprogrammed input patches. The transformed time series patches from the LLM are finally projected to obtain the forecasts. Our comprehensive evaluations demonstrate that Time-LLM is a powerful time series learner that outperforms state-of-the-art, specialized forecasting models. Moreover, Time-LLM excels in both few-shot and zero-shot learning scenarios.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-03T01:31:25Z</published>
+    <arxiv:comment>Accepted by the 12th International Conference on Learning Representations (ICLR 2024)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Ming Jin</name>
+    </author>
+    <author>
+      <name>Shiyu Wang</name>
+    </author>
+    <author>
+      <name>Lintao Ma</name>
+    </author>
+    <author>
+      <name>Zhixuan Chu</name>
+    </author>
+    <author>
+      <name>James Y. Zhang</name>
+    </author>
+    <author>
+      <name>Xiaoming Shi</name>
+    </author>
+    <author>
+      <name>Pin-Yu Chen</name>
+    </author>
+    <author>
+      <name>Yuxuan Liang</name>
+    </author>
+    <author>
+      <name>Yuan-Fang Li</name>
+    </author>
+    <author>
+      <name>Shirui Pan</name>
+    </author>
+    <author>
+      <name>Qingsong Wen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1712.02136v3</id>
+    <title>Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction</title>
+    <updated>2019-02-20T04:30:16Z</updated>
+    <link href="https://arxiv.org/abs/1712.02136v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1712.02136v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Stock trend prediction plays a critical role in seeking maximized profit from stock investment. However, precise trend prediction is very difficult since the highly volatile and non-stationary nature of stock market. Exploding information on Internet together with advancing development of natural language processing and text mining techniques have enable investors to unveil market trends and volatility from online content. Unfortunately, the quality, trustworthiness and comprehensiveness of online content related to stock market varies drastically, and a large portion consists of the low-quality news, comments, or even rumors. To address this challenge, we imitate the learning process of human beings facing such chaotic online news, driven by three principles: sequential content dependency, diverse influence, and effective and efficient learning. In this paper, to capture the first two principles, we designed a Hybrid Attention Networks to predict the stock trend based on the sequence of recent related news. Moreover, we apply the self-paced learning mechanism to imitate the third principle. Extensive experiments on real-world stock market data demonstrate the effectiveness of our approach.</summary>
+    <category term="cs.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-fin.ST" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-12-06T11:33:21Z</published>
+    <arxiv:primary_category term="cs.SI"/>
+    <author>
+      <name>Ziniu Hu</name>
+    </author>
+    <author>
+      <name>Weiqing Liu</name>
+    </author>
+    <author>
+      <name>Jiang Bian</name>
+    </author>
+    <author>
+      <name>Xuanzhe Liu</name>
+    </author>
+    <author>
+      <name>Tie-Yan Liu</name>
+    </author>
+  </entry>
+</feed>

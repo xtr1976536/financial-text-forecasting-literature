@@ -1,0 +1,184 @@
+[
+  {
+    "id": "F421",
+    "title": "One Fits All:Power General Time Series Analysis by Pretrained LM",
+    "doi": "10.48550/arxiv.2302.11939",
+    "date": "2023-02-23",
+    "authors": "Tian Zhou; PeiSong Niu; Xue Wang; Liang Sun; Rong Jin",
+    "venue": "NeurIPS 2023",
+    "url": "https://arxiv.org/abs/2302.11939",
+    "sources": [
+      "catalog/supplement_arxiv.xml"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "LLM与表示"
+    ],
+    "read_level": "原文摘要及方法或消融关键段落核读",
+    "publication_status": "预印本；会议状态见 venue 字段",
+    "curated_note": {
+      "finding": "数值片段映射进入 GPT-2，冻结主干并适配输入输出。",
+      "caveat": "通用时序正面结果；不能直接外推金融收益。"
+    },
+    "verification_status": "arXiv API 题名、作者与日期核验",
+    "date_precision": "日"
+  },
+  {
+    "id": "F422",
+    "title": "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting",
+    "doi": "10.48550/arxiv.2310.04948",
+    "date": "2023-10-08",
+    "authors": "Defu Cao; Furong Jia; Sercan O Arik; Tomas Pfister; Yixiang Zheng; Wen Ye; Yan Liu",
+    "venue": "ICLR 2024",
+    "url": "https://arxiv.org/abs/2310.04948",
+    "sources": [
+      "catalog/supplement_arxiv.xml"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "融合与对齐"
+    ],
+    "read_level": "原文摘要及方法或消融关键段落核读",
+    "publication_status": "预印本；会议状态见 venue 字段",
+    "curated_note": {
+      "finding": "以趋势、季节与残差分解和提示适配小型 Transformer。",
+      "caveat": "零样本指时序预训练后的跨数据集迁移。"
+    },
+    "verification_status": "arXiv API 题名、作者与日期核验",
+    "date_precision": "日"
+  },
+  {
+    "id": "F423",
+    "title": "Are Language Models Actually Useful for Time Series Forecasting?",
+    "doi": "10.48550/arxiv.2406.16964",
+    "date": "2024-06-22",
+    "authors": "Mingtian Tan; Mike A. Merrill; Vinayak Gupta; Tim Althoff; Thomas Hartvigsen",
+    "venue": "NeurIPS 2024",
+    "url": "https://arxiv.org/abs/2406.16964",
+    "sources": [
+      "catalog/supplement_arxiv.xml"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "LLM与表示"
+    ],
+    "read_level": "原文摘要及方法或消融关键段落核读",
+    "publication_status": "预印本；会议状态见 venue 字段",
+    "curated_note": {
+      "finding": "移除或替换 LLM 的消融在许多任务不降反升。",
+      "caveat": "针对所评估的方法和数据，非所有金融文本模型的否定。"
+    },
+    "verification_status": "arXiv API 题名、作者与日期核验",
+    "date_precision": "日"
+  },
+  {
+    "id": "F424",
+    "title": "Time Machine GPT",
+    "doi": "10.48550/arxiv.2404.18543",
+    "date": "2024-04-29",
+    "authors": "Felix Drinkall; Eghbal Rahimikia; Janet B. Pierrehumbert; Stefan Zohren",
+    "venue": "NAACL Findings 2024",
+    "url": "https://arxiv.org/abs/2404.18543",
+    "sources": [
+      "catalog/supplement_arxiv.xml"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "LLM与表示"
+    ],
+    "read_level": "原文摘要及方法或消融关键段落核读",
+    "publication_status": "预印本；会议状态见 venue 字段",
+    "curated_note": {
+      "finding": "按历史截止训练 GPT-2 小架构，服务无未来知识的历史研究。",
+      "caveat": "模型工具本身不等于单独金融预测证据。"
+    },
+    "verification_status": "arXiv API 题名、作者与日期核验",
+    "date_precision": "日"
+  },
+  {
+    "id": "F425",
+    "title": "Parameter-Efficient Adaptation of Pretrained Language Models for Time-Series Forecasting",
+    "doi": "10.48550/arxiv.2609.15344",
+    "date": "2026-09-14",
+    "authors": "Tamanna Kumavat; Georg Brunner; Kyriakos Flouris",
+    "venue": "arXiv 2026",
+    "url": "https://arxiv.org/abs/2609.15344",
+    "sources": [
+      "catalog/supplement_arxiv.xml"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "LLM与表示"
+    ],
+    "read_level": "原文摘要及方法或消融关键段落核读",
+    "publication_status": "预印本；会议状态见 venue 字段",
+    "curated_note": {
+      "finding": "连续片段映射与轻量适配，报告达到专用架构竞争范围。",
+      "caveat": "新预印本；不等于有成本后股票收益优势。"
+    },
+    "verification_status": "arXiv API 题名、作者与日期核验",
+    "date_precision": "日"
+  },
+  {
+    "id": "F426",
+    "title": "Timer: Generative Pre-trained Transformers Are Large Time Series Models",
+    "doi": "10.48550/arxiv.2402.02368",
+    "date": "2024-02-04",
+    "authors": "Yong Liu; Haoran Zhang; Chenyu Li; Xiangdong Huang; Jianmin Wang; Mingsheng Long",
+    "venue": "ICML 2024",
+    "url": "https://arxiv.org/abs/2402.02368",
+    "sources": [
+      "catalog/supplement_arxiv.xml"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "LLM与表示"
+    ],
+    "read_level": "原文摘要及方法或消融关键段落核读",
+    "publication_status": "预印本；会议状态见 venue 字段",
+    "curated_note": {
+      "finding": "基于数值时序预训练的 GPT 风格模型。",
+      "caveat": "GPT 风格架构不等同于继承语言模型预训练权重。"
+    },
+    "verification_status": "arXiv API 题名、作者与日期核验",
+    "date_precision": "日"
+  },
+  {
+    "id": "F427",
+    "title": "GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting",
+    "doi": "10.1609/aaai.v38i21.30383",
+    "date": "2024-03-24",
+    "authors": "Furong Jia; Kevin Wang; Yixiang Zheng; Defu Cao; Yan Liu",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/30383",
+    "sources": [
+      "catalog/supplement_gpt4mts.json"
+    ],
+    "alternative_dois": [],
+    "scope": "通用时序与小模型方法支撑",
+    "tags": [
+      "小型LLM与GPT-2",
+      "融合与对齐"
+    ],
+    "read_level": "出版页面摘要核读",
+    "publication_status": "会议出版论文",
+    "curated_note": {
+      "finding": "融合数值序列与额外文本信息的 GPT-2 路线。",
+      "caveat": "GDELT 新闻影响等任务不是股票超额收益证据；不能因题名中的 GPT4 误认 GPT-4。"
+    },
+    "verification_status": "Crossref 与 AAAI 出版页面核验",
+    "date_precision": "日"
+  }
+]

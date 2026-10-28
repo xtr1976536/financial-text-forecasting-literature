@@ -1,0 +1,14 @@
+{
+  "records": 420,
+  "unique_dois": 420,
+  "unique_normalized_titles": 420,
+  "notes": 37,
+  "metadata_only": 383,
+  "crossref_title_matches": 357,
+  "repository_records": 63,
+  "recent_2025_2026": 164,
+  "report_reference_links": "passed",
+  "bibtex_entries": 420,
+  "html_search_smoke": "NoLBERT -> 1 of 420; reset -> 420",
+  "pdf_visual_check": "10 pages rendered; contact sheet and pages 6 and 8 inspected; formula glyphs corrected"
+}

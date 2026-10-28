@@ -1,0 +1,15 @@
+import pathlib,json,requests,xml.etree.ElementTree as ET,time
+P=pathlib.Path(__file__).resolve().parents[1];base=json.loads((P/'literature_review/library.json').read_text())
+items=[('2302.11939','One Fits All','NeurIPS 2023','数值片段映射进入 GPT-2，冻结主干并适配输入输出。','通用时序正面结果；不能直接外推金融收益。'),('2310.04948','TEMPO','ICLR 2024','以趋势、季节与残差分解和提示适配小型 Transformer。','零样本指时序预训练后的跨数据集迁移。'),('2406.16964','Are Language Models Actually Useful','NeurIPS 2024','移除或替换 LLM 的消融在许多任务不降反升。','针对所评估的方法和数据，非所有金融文本模型的否定。'),('2404.18543','Time Machine GPT','NAACL Findings 2024','按历史截止训练 GPT-2 小架构，服务无未来知识的历史研究。','模型工具本身不等于单独金融预测证据。'),('2609.15344','Parameter-Efficient Adaptation','arXiv 2026','连续片段映射与轻量适配，报告达到专用架构竞争范围。','新预印本；不等于有成本后股票收益优势。'),('2402.02368','Timer','ICML 2024','基于数值时序预训练的 GPT 风格模型。','GPT 风格架构不等同于继承语言模型预训练权重。')]
+ns={'a':'http://www.w3.org/2005/Atom'}
+r=requests.get('https://export.arxiv.org/api/query',params={'id_list':','.join(i[0] for i in items),'max_results':20},timeout=50);r.raise_for_status();(P/'catalog/supplement_arxiv.xml').write_text(r.text)
+lookup={e.findtext('a:id',namespaces=ns).split('/abs/')[-1].split('v')[0]:e for e in ET.fromstring(r.text).findall('a:entry',ns)}
+new=[]
+for aid,short,venue,finding,caveat in items:
+ e=lookup[aid];dt=e.findtext('a:published',namespaces=ns)[:10]
+ x={'id':f'F{421+len(new):03}','title':' '.join(e.findtext('a:title',namespaces=ns).split()),'doi':'10.48550/arxiv.'+aid,'date':dt,'authors':'; '.join(a.findtext('a:name',namespaces=ns) for a in e.findall('a:author',ns)),'venue':venue,'url':'https://arxiv.org/abs/'+aid,'sources':['catalog/supplement_arxiv.xml'],'alternative_dois':[],'scope':'通用时序与小模型方法支撑','tags':['小型LLM与GPT-2','融合与对齐' if aid in ['2310.04948'] else 'LLM与表示'],'read_level':'原文摘要及方法或消融关键段落核读','publication_status':'预印本；会议状态见 venue 字段','curated_note':{'finding':finding,'caveat':caveat},'verification_status':'arXiv API 题名、作者与日期核验','date_precision':'日'}
+ new.append(x)
+# GPT4MTS has a publisher DOI; get metadata directly, without inventing missing fields.
+r=requests.get('https://api.crossref.org/works/10.1609/aaai.v38i21.30383',timeout=35);r.raise_for_status();m=r.json()['message'];(P/'catalog/supplement_gpt4mts.json').write_text(json.dumps(r.json(),ensure_ascii=False,indent=2))
+new.append({'id':'F427','title':m['title'][0],'doi':m['DOI'].lower(),'date':'2024-03-24','authors':'; '.join((a.get('given','')+' '+a.get('family','')).strip() for a in m['author']),'venue':m['container-title'][0],'url':'https://ojs.aaai.org/index.php/AAAI/article/view/30383','sources':['catalog/supplement_gpt4mts.json'],'alternative_dois':[],'scope':'通用时序与小模型方法支撑','tags':['小型LLM与GPT-2','融合与对齐'],'read_level':'出版页面摘要核读','publication_status':'会议出版论文','curated_note':{'finding':'融合数值序列与额外文本信息的 GPT-2 路线。','caveat':'GDELT 新闻影响等任务不是股票超额收益证据；不能因题名中的 GPT4 误认 GPT-4。'},'verification_status':'Crossref 与 AAAI 出版页面核验','date_precision':'日'})
+(P/'catalog/papers.json').write_text(json.dumps(base+new,ensure_ascii=False,indent=2));(P/'catalog/supplement.json').write_text(json.dumps(new,ensure_ascii=False,indent=2));print('base',len(base),'new',len(new),'total',len(base+new))

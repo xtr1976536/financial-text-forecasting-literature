@@ -1,0 +1,997 @@
+[
+  {
+    "id": "F203",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F217",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F001",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F015",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F149",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F388",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F362",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F376",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F160",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F148",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F014",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F216",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F228",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F214",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F016",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F189",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F176",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F374",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F188",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F017",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F215",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F229",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F211",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F239",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F013",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F007",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F359",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F166",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F199",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F006",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F012",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F210",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F206",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F212",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F004",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F010",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F170",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F164",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F366",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F367",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F373",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F159",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F039",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F011",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F005",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F207",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F260",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F274",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F062",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F314",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F315",
+    "explicit_license_urls": [],
+    "license_text_present": true
+  },
+  {
+    "id": "F103",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by-nc/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F117",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F275",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F261",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F249",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F263",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F061",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F129",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F101",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F128",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F299",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F104",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F110",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F138",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F312",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F313",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F139",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F273",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F271",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F067",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F113",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F107",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F305",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F338",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F304",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F106",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F112",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F270",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F264",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F269",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F255",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F094",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F123",
+    "explicit_license_urls": [],
+    "license_text_present": true
+  },
+  {
+    "id": "F321",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F320",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F334",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F308",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F122",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F136",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F268",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F256",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F054",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F040",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F108",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F322",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F135",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F109",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F055",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F243",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F280",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F294",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F290",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F247",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F086",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F125",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F131",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F333",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F326",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F130",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F050",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F244",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F052",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F132",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F126",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F331",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F127",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F053",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F084",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F251",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F245",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F008",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F020",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F034",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F183",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F342",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F424",
+    "explicit_license_urls": [],
+    "license_text_present": true
+  },
+  {
+    "id": "F343",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F425",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F357",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F380",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F141",
+    "explicit_license_urls": [],
+    "license_text_present": true
+  },
+  {
+    "id": "F021",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F009",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F235",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F221",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F023",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F194",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F157",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F369",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F427",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F354",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F426",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F397",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F156",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F142",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F195",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F022",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F036",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F220",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F208",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F224",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F185",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F191",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F146",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F152",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F393",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F422",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F423",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F392",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F147",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F033",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F225",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F231",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  },
+  {
+    "id": "F227",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F025",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F019",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F186",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F145",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F179",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F384",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F353",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F421",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F347",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F408",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F420",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F352",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F385",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F144",
+    "explicit_license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": false
+  },
+  {
+    "id": "F187",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F018",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F030",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F024",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F232",
+    "explicit_license_urls": [],
+    "license_text_present": false
+  },
+  {
+    "id": "F226",
+    "explicit_license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "license_text_present": true
+  }
+]

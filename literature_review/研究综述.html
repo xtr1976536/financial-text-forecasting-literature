@@ -1,0 +1,150 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>金融文本的预测价值｜研究综述</title><style>*{box-sizing:border-box}body{margin:0;background:#f3f5f8;color:#172b3a;font:16px/1.8 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}main{max-width:1160px;margin:32px auto;padding:40px 52px;background:white;border:1px solid #dce3eb;border-radius:12px}h1{font-size:30px;line-height:1.4;margin:0 0 24px}h2{font-size:23px;margin-top:44px;border-bottom:2px solid #b6cdda;padding-bottom:10px}h3{font-size:19px;margin-top:28px}p{margin:16px 0}a{color:#12618a;text-decoration:none}a:hover{text-decoration:underline}table{width:100%;border-collapse:collapse;font-size:14px;line-height:1.65;margin:24px 0}th{background:#eaf1f7;text-align:left}th,td{border:1px solid #d9e2e9;padding:10px 12px;vertical-align:top}nav{display:flex;gap:22px;margin-bottom:25px;font-weight:600}.meta{color:#637784;font-size:14px}.badge{display:inline-block;border-radius:12px;background:#e7f0f6;color:#315970;padding:2px 9px;margin:3px;font-size:12px}.note{background:#f2f7fa;border-left:3px solid #3b7896;padding:12px 18px;margin:12px 0}.warn{background:#fff4e4;padding:14px 18px;border-left:3px solid #c99542}input,select,button{font:inherit;padding:9px 12px;border:1px solid #bdccd8;border-radius:6px;background:white}input{min-width:330px;flex:1}.controls{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}.card{padding:22px 0;border-bottom:1px solid #d9e3ea}.card h3{font-size:18px;margin:0 0 8px}.small{font-size:13px;color:#647884}.count{font-weight:650;color:#285c78;margin:18px 0}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.stat{padding:18px;background:#edf3f7;border-radius:8px}.stat b{display:block;font-size:26px;line-height:1.3}details{margin:10px 0}.empty{padding:40px;color:#687b89}@media(max-width:760px){main{margin:0;padding:24px 16px;border:0;border-radius:0}table{display:block;overflow:auto}input{min-width:100%}.grid{grid-template-columns:repeat(2,1fr)}}@media print{body{background:white}main{max-width:none;border:0;margin:0;padding:0}nav,.controls{display:none}h2,h3{break-after:avoid}tr,.card{break-inside:avoid}}</style><main><nav><a href="研究综述.html">研究综述</a><a href="文献库.html">420 条文献库</a><a href="references.bib">BibTeX</a><a href="检索与核验说明.md">检索说明</a></nav><h1>金融时序预测中的文本：增量价值、进入方式与识别困难</h1>
+<p>检索截止：2026 年 10 月 28 日（北京时间）。本报告是有检索记录的范围综述与重点证据核读，不是已完成双人筛选、逐篇全文评估的系统综述，也不是元分析。配套目录保留 420 条按 DOI 与规范化题名去重的记录，分为 350 条“预测研究候选”和 70 条测量、机制、方法或综述；其中 2025 年 77 条、2026 年 87 条。年份统计采用题录保留的出版日期，可能与卷期年份不同。37 条有重点定位或核读笔记，其他记录不能据题名推断正面或负面结果。检索原始记录、程序、核验结果均留在同目录。</p>
+<h2>一、对你们两个问题的回答</h2>
+<p><strong>文本可以有用，但“文本有信息”与“在强数值信息集之上有稳定、可实现的增量”是不同命题。现有论文已经认真研究这两个问题；最有启发性的研究往往把来源、时点、目标、基准与表示方式拆开，而不是把加入文本后的一个高准确率当作结论。</strong></p>
+<p>关于“有没有用”，可以找到历史新闻收益信号、披露变化、宏观新闻预测波动率等正面证据，也可以找到严格控制身份、时间、成本或多重检验后大幅缩水乃至不显著的结果。2026 年的新研究使这个问题更具体：文本模型可能只认出公司，可能只测量新闻到达，可能利用预训练的未来知识，也可能确实识别了数值尚未充分表达的当天语义。必须做实验区分。</p>
+<p>关于“如何进入”，文献没有给出普适的最优融合架构。比较值得研究的是：文本的哪一部分是目标相关的、它相对于数值条件意味着什么、何时应该被忽略。任务监督的低维特征、结构化事件、文本预测与数值预测的组合、状态门控，以及模态专用编码与对齐，都有理由进入同一个公平比较。</p>
+<p>这里的综合判断来自下文所列原始论文；不能把目录中的 420 条都视为赞成或反对某结论的投票。</p>
+<h2>二、先把“有用”写成可检验的问题</h2>
+<p>令 X_t 表示预测时点真实可用的价格、成交、波动率、基本面和其他数值信息，T_t 表示当时已完整可得的文本，Y_(t+h) 为未来目标。</p>
+<p>若用平方损失预测条件均值，核心原假设是：</p>
+<p>E[Y_(t+h) | X_t, T_t] = E[Y_(t+h) | X_t]。</p>
+<p>若预测波动率分布、尾部风险或收益分布，则应检验对应条件分位数、条件方差或完整条件分布；文本可能不改变均值，却改变尾部或不确定性。预测目标不同，“无用”的含义也不同。</p>
+<p>实际比较对象应是：在相同样本、可得信息时点、调参与算力预算下，X 模型与 X+T 模型的样本外损失差。这个差是“可估计的模型增益”，仍不完全等同于总体信息价值：有限样本、表示压缩和估计误差会让有信息的文本表现不好。</p>
+<p>应区分五个层次：</p>
+<table><thead><tr><th>证据</th><th>能说明什么</th><th>尚不能说明什么</th></tr></thead><tbody>
+<tr><td>情绪分类、QA 或事件抽取准确率高</td><td>语言任务完成得好</td><td>未来金融目标可预测</td></tr>
+<tr><td>文本与当日价格反应相关</td><td>文本与已发生的市场信息有关</td><td>发布后仍有剩余预测价值</td></tr>
+<tr><td>文本单独模型有效</td><td>T 含预测信息或代理变量</td><td>相对 X 有增量</td></tr>
+<tr><td>X+T 样本外优于强 X 基准</td><td>在该任务和协议内有增量</td><td>跨时期、跨市场普遍有效</td></tr>
+<tr><td>成本后仍改善风险调整效用</td><td>在指定执行假设下有经济价值</td><td>大资金容量、真实部署都可行</td></tr>
+</tbody></table>
+<p>2026 年 QLoRA 基准直接展示了第一层与后几层的断裂：金融情绪分类改善，但其 28 个下游模型—预测期检验经过依赖和多重检验处理后没有保留显著性。<a href="https://arxiv.org/abs/2608.04200" target="_blank" rel="noopener">原文，F017</a></p>
+<h2>三、文献已经深入到哪里</h2>
+<h3>3.1 金融与经济学：从“语言测量”走向“条件增量”</h3>
+<p>Tetlock 的媒体情绪研究、Tetlock 等人的企业基本面语言研究，以及 Loughran–McDonald 的财务词典，分别推进了媒体语调、基本面信息和领域语义的测量。它们构成起点，但不能据此推断任意现代文本模型都有超额预测力。<a href="https://doi.org/10.1111/j.1540-6261.2007.01232.x" target="_blank" rel="noopener">F036</a>、<a href="https://doi.org/10.1111/j.1540-6261.2008.01362.x" target="_blank" rel="noopener">F035</a>、<a href="https://doi.org/10.1111/j.1540-6261.2010.01625.x" target="_blank" rel="noopener">F034</a></p>
+<p>Ke、Kelly 和 Xiu 的研究更直接回应“怎么进入”：词语筛选、权重和聚合针对收益目标训练，而不是先找一个通用“正面/负面”分数。这说明文本表征应该与金融目标一起设计；语言上的情绪正确，不保证收益目标上的排序正确。<a href="https://www.nber.org/papers/w26186" target="_blank" rel="noopener">Predicting Returns With Text Data，F033</a></p>
+<p>Lima 和 Godeiro 的结果尤其重要：把大量文本直接降维成因子，不能超过历史均值；先筛选具有预测性的词语，再估计因子并动态更新词典，才得到改善。这里题名中的 attention 是预测性关注与筛选，不能误读为证明 Transformer 注意力最优。<a href="https://doi.org/10.1002/jae.2939" target="_blank" rel="noopener">Equity-premium prediction: Attention is all you need，F029；2022 在线、2023 卷期</a></p>
+<p>Bybee 等人的新闻主题研究把关注度转换为经济状态和叙事，提供了有解释力的文本增强模型。不过文中关于市场波动的同期解释比例，不能改写为未来收益预测的 R²。研究中递推的历史主题设定，比全样本主题更适合用来判断实时可预测性。<a href="https://doi.org/10.1111/jofi.13377" target="_blank" rel="noopener">Business News and Business Cycles，F027</a></p>
+<p>披露变化是另一种进入方式。Cohen、Malloy 和 Nguyen 不只读一份报告有多乐观，而读同一企业相对上一份报告改了什么。文本差分可以过滤长期模板，聚焦新增或删除的信息。<a href="https://doi.org/10.1111/jofi.12885" target="_blank" rel="noopener">Lazy Prices，F031</a> 制度外推需要小心：2026 年日本会议研究的摘要称，总体变化并不预测收益，新增增长词汇的方向才有信息。这是值得进一步核验的反例，而不是现成的跨国定律。<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2026/0/JSAI2026_2H6OS2c02/_article/-char/en" target="_blank" rel="noopener">Do Lazy Prices Hold in Japan?</a></p>
+<h3>3.2 波动率：新闻数量、来源与语义的贡献并不相同</h3>
+<p>Bodilsen 和 Lunde 发现，宏观新闻情绪对较长预测期的波动率有帮助，个股新闻情绪在一般设定下较弱，而隔夜个股新闻数量有助于短期预测。因此，不能把“新闻有效”自动解释为“深度语义理解有效”。<a href="https://doi.org/10.1002/jae.3095" target="_blank" rel="noopener">Exploiting News Analytics for Volatility Forecasting，F028；2025 卷期</a></p>
+<p>Rahimikia 和 Poon 的 2026 年研究在较强 HAR 家族基准下比较新闻和订单簿信息，报告新闻数量的增益比情绪更稳定，而且在高波动日更明显。它给你们一个很必要的对照：如果只加新闻篇数就获得全部改善，复杂语言模型并未证明有额外语义价值。<a href="https://doi.org/10.1002/ijfe.70239" target="_blank" rel="noopener">Alternative Data for Realised Volatility Forecasting，F002</a></p>
+<p>Fernandes 和 Pereira 用巴西新闻构建不确定性指标，在持久性、杠杆效应、跳跃和微观结构等控制之后仍报告预测改善，较长预测期尤其明显。这提示文本新闻周期的持续性可能与波动率预测期匹配。<a href="https://doi.org/10.1016/j.qref.2025.102040" target="_blank" rel="noopener">Forecasting realized volatility using news flow，F026</a></p>
+<p>FinText 研究的最新版更加审慎：新闻单独模型通常无法超过最强波动率历史基准；但把新闻预测与强基准结合，可以降低部分设定中的损失并改善实现效用。采用的是 2026-08-31 的 v7，不能沿用更早版本的强表述而忽略修订。<a href="https://arxiv.org/html/2108.00480v7" target="_blank" rel="noopener">Realised Volatility Forecasting: Machine Learning via Financial Word Embedding，F030</a></p>
+<p>以上研究为“文本补充数值模型”提供了证据，但波动率不应因此被断言为普遍比收益更容易从文本获益。本次没有做跨任务可比的元分析。</p>
+<h3>3.3 机器学习与 NLP：融合设计很多，识别质量需要逐篇判断</h3>
+<p>StockNet 是文本与历史价格联合建模的代表性早期工作；后续模型大量探索新闻层级注意力、关系图、跨模态注意力以及电话会文本—音频融合。<a href="https://aclanthology.org/P18-1183/" target="_blank" rel="noopener">Stock Movement Prediction from Tweets and Historical Prices，F347</a>、<a href="https://aclanthology.org/2020.emnlp-main.643/" target="_blank" rel="noopener">VolTAGE，F305</a></p>
+<p>这类架构论文回答的是特定数据和比较集上的方法问题。读论文时，应确认纯数值基准是否足够强、是否与联合模型等预算、是否使用相同测试样本；还应区分“去掉文本后模型变差”和“已经证明文本具有独立语义贡献”。如果去掉文本同时移除了公司身份、新闻数量或额外模型容量，消融仍有歧义。</p>
+<p>2025 年 Guo 和 Hauptmann 直接比较不同复杂度的融合，发现简单的表示组合通常优于更复杂方法，融合效果依投资股票池而变，解耦训练的混合预测更稳健。微调语言模型的影响也不一致。作者把部分差异解释为市场效率与数据差异，但这不是单独识别出的市场效率因果效应。<a href="https://arxiv.org/html/2510.15691v3" target="_blank" rel="noopener">Exploring the Synergy …，F021</a></p>
+<p>Koval、Andrews 和 Yan 的 2025 年研究则提供另一条正面路线：保留文本与时序交错的结构，给两种模态不同专家，并对齐重要 token。它认真比较单模态与多模态基准；其优势支持这套设计在该实验内有效，不能据此宣称所有任务都应端到端使用语言模型。预印本与 IJCNLP 正式版本在目录中合并为一项研究。<a href="https://aclanthology.org/2025.ijcnlp-long.54/" target="_blank" rel="noopener">F020</a></p>
+<h2>四、2025—2026 年出现的关键困难与发现</h2>
+<h3>4.1 最直接的近期证据：高独立预测力可能主要是公司身份</h3>
+<p>Zheng 的 2026-10-18 论文对 202,145 个被讨论股票日进行滚动测试。文本独立模型的拟合并不代表当天新闻增量；公司身份控制、公司内部文本日期置换和 ticker 遮蔽把两者拆开。作者报告 HAR 加文本后等日期 MSE 改善 1.22%，但后期子样本并无显著正增量。<a href="https://arxiv.org/html/2610.25468v1" target="_blank" rel="noopener">More Mentions, Less Information?，F004</a></p>
+<p>对你们的启发是把“当天语义”与稳定身份分开，分别检验新闻数量、文本有无和日内配对。该研究仍是回溯评估，不能被描述为已经消除了所有预训练污染。</p>
+<h3>4.2 正的策略收益未必代表文本增量</h3>
+<p>Foley 等人在 2026-10-15 的 NoLBERT 研究中使用早于预测样本的语言预训练，重新检查主题与收益。验证集选出的最佳实验在测试期失败；价格与文本组合的月度净 Sharpe 为 1.12，却没有显著超过价格组合。多重实验调整进一步削弱证据。<a href="https://arxiv.org/html/2610.22745v1" target="_blank" rel="noopener">Reading the News Without Hindsight，F012</a></p>
+<p>这篇最适合作为研究设计范本，而不是“文本无用”的最终裁决：需要同时报告对零收益的检验、对数值基准的检验和搜索调整，三者检验的对象不同。</p>
+<h3>4.3 预训练污染真实存在，但大小依模型和任务而变</h3>
+<p>Levy 的 2026 年 JAR 论文提示，部分金融 AI 的强表现来自数值推理缺陷被掩盖、训练年代与被预测事件重叠等问题。<a href="https://doi.org/10.1111/1475-679x.70058" target="_blank" rel="noopener">Caution Ahead，F003</a></p>
+<p>另一边，He 等人的 ChronoBERT/ChronoGPT 按历史文本截止训练，相关资产定价应用仍表现有竞争力，其估计的前视偏差较温和。两组发现共同要求逐模型、逐目标诊断，而不是把所有文本结果归因为记忆。<a href="https://arxiv.org/abs/2502.21206" target="_blank" rel="noopener">Chronologically Consistent Large Language Models，F025</a></p>
+<p>Gao、Jiang 和 Yan 提出 LAP 检验，以日期记忆诊断预测是否被未来知识放大。采用 2026-06-12 v2，标题已更新为 Detecting Lookahead Bias in LLM Forecasts。<a href="https://arxiv.org/abs/2512.23847" target="_blank" rel="noopener">F022</a></p>
+<p>污染诊断也可能失灵。MemGuard-Alpha 的修订稿显示，部分高检测 AUC 来自模型尺度或由时间直接定义的标签，统一处理成本后过滤并没有提升组合绩效。不能以一个漂亮的污染检测分数宣称回测已“净化”。<a href="https://arxiv.org/abs/2603.26797" target="_blank" rel="noopener">F014</a></p>
+<h3>4.4 训练—测试按时间切开，也可能仍在事件内部偷看未来</h3>
+<p>2026-10-15 的 Availability Contract 研究指出：完整电话会转录包含问答后的信息，目标收益却可能从电话会开始甚至之前计算。移动目标开始时点会改变标签和预测损失。因此，必须说明完整输入何时可得，再加处理延迟，最后才开始计算目标。<a href="https://arxiv.org/abs/2610.21659" target="_blank" rel="noopener">When Does “Post-Call” Begin?，F016</a></p>
+<p><strong>实施上应把五个时钟写入数据协议：事件发生、首次发布、修订、完整输入可用、模型生成与交易。</strong> 如果模型只能在盘后拿到完整文本，就不能把盘中已经完成的价格反应写成其可交易收益。</p>
+<h3>4.5 更多文本、更长上下文、更大模型并不自动更好</h3>
+<p>2026-10-16 的 SEC 披露评估发现：给同一披露加入基本面横截面排序能改善收益排序；给分析师摘要没有类似平均改善。金融专用模型的优势也不稳定。其任务还混有事件当期反应，不能全当作纯粹前瞻预测。<a href="https://arxiv.org/html/2610.24268v1" target="_blank" rel="noopener">From SEC Filings to Financial Signals，F015</a></p>
+<p>2026-10-22 的新闻老化研究比较“保留旧新闻并告知年龄”与“先过滤旧新闻”，RL 对时间信息的行为反应并没有变成稳定历史收益改善。它支持研究信息选择，而不只是增加上下文长度。<a href="https://arxiv.org/abs/2610.30564" target="_blank" rel="noopener">When News Gets Old，F011</a></p>
+<h3>4.6 单一情绪会丢信息，但结构化新结果也须过时间检验</h3>
+<p>2025-12 的 SER 工作以结构化事件进入预测器；2026-07 的 Beyond Sentiment 把事件类型、主体、时间范围和置信等语义与情绪结合。这些设计比单一极性更接近金融问题。<a href="https://arxiv.org/abs/2512.19484" target="_blank" rel="noopener">F024</a>、<a href="https://arxiv.org/abs/2607.28496" target="_blank" rel="noopener">F008</a></p>
+<p>但 F008 的全文方法是：对全体样本 bootstrap 后再随机划分 80%/20%。这既未隔离未来时期，还可能使同一原始观测的重复副本跨越训练和测试。因此它的 F1 改善只能作为有待严格复验的线索，不能当作实时增量已经成立的强证据。</p>
+<h3>4.7 数值背景可能改变同一句文本的方向</h3>
+<p>“利润增长”不一定是利好，关键可能是低于市场预期；“成本下降”也可能来自需求崩塌。模型应解释文本相对于预期、估值、波动率状态和资产暴露的意义。这是从 F015 条件信息比较中得到的研究启发，而不是该论文已证明了所有交互机制。</p>
+<p>2026-10-15 的合成公告实验进一步说明输入冲突值得测：多数被测模型对无新增信息的语调或动量比对 EPS 意外更敏感。但合成实验测的是输入依赖，不能据此推出真实投资回报。<a href="https://arxiv.org/abs/2610.22043" target="_blank" rel="noopener">Momentum, Commentary Tone, and Earnings Surprise …，F013</a></p>
+<h3>4.8 最新基准本身也必须审查</h3>
+<p>2026-10-12 的 XForecast 将新闻和价格配对，预测四周后的股票方向。但其加权命中率利用实现后的价格方向衡量新闻的重要性。因此“在该指标上胜出”不能直接等同于无偏的事前信息价值；应同时报告未加权指标和对强数值基准的增量。<a href="https://arxiv.org/html/2610.16131v1" target="_blank" rel="noopener">XForecast，F005</a></p>
+<p>2026-09 的 MM-FinEval 扩展到电话会文本、音频和幻灯片，适合研究模态互补。仍须查看语言模型训练截止、电话会完成时点，以及标签究竟是当期解释还是未来预测。<a href="https://arxiv.org/abs/2609.38523" target="_blank" rel="noopener">F007</a></p>
+<p>检索还覆盖到 2026-10-26 的 FinLLM-KG：历史 10-K 公司知识以资料或三元组形式进入推理，作者报告组合改善。这是“相同新闻应按公司背景解释”的最新例子，但目前在本报告中只作为摘要核读的新预印本，不作为已复现结论。<a href="https://arxiv.org/abs/2610.36083" target="_blank" rel="noopener">F018</a></p>
+<h2>五、文本究竟应该如何进入：把表示与融合分开比较</h2>
+<h3>5.1 表示层：至少比较以下六类</h3>
+<table><thead><tr><th>表示</th><th>保留什么</th><th>容易丢掉什么</th><th>适合检验的问题</th></tr></thead><tbody>
+<tr><td>篇数、是否有新闻、来源、时间、新颖度</td><td>到达强度、覆盖与时钟</td><td>具体语义</td><td>改善是否仅来自信息到达？</td></tr>
+<tr><td>金融词典、情绪、分歧</td><td>方向、语调、意见差异</td><td>主体、条件、预期与事件结构</td><td>是否简单低维信号已足够？</td></tr>
+<tr><td>主题或叙事状态</td><td>宏观风险、行业和经济主题</td><td>细粒度事件与预期偏差</td><td>跨期风险和状态是否可预测？</td></tr>
+<tr><td>稀疏监督词语与低维投影</td><td>与特定目标相关的词和方向</td><td>未经保留的含义</td><td>目标监督是否比通用表示重要？</td></tr>
+<tr><td>冻结嵌入及其压缩</td><td>较丰富上下文与语义近邻</td><td>明确经济约束、身份与语义分离</td><td>是否确有不可由数值代理的语义？</td></tr>
+<tr><td>结构化事件与历史差分</td><td>谁、什么、何时、意外程度、暴露、修订</td><td>抽取错误、难以枚举的叙事</td><td>收益是否来自事件与预期匹配？</td></tr>
+</tbody></table>
+<p>可优先把结构化事件写成“主体—事件—对象—预期差—时间范围—影响渠道—可信度”，但这些字段是建议的实验设计，不意味着现有文献已共同验证了这一最佳集合。新闻中披露的数字也应单独抽取：这样可以区分模型只是把文字中的 EPS 数字搬进来，还是语言语义真的增加信息。</p>
+<h3>5.2 融合层：从最容易解释的组合开始</h3>
+<table><thead><tr><th>进入方式</th><th>形式示意</th><th>价值</th><th>主要风险</th></tr></thead><tbody>
+<tr><td>特征增广</td><td>预测器接收 [X, z(T)]</td><td>控制清楚、易与数值基准比较</td><td>高维小样本、文本支路过拟合</td></tr>
+<tr><td>预测组合</td><td>w·f(X)+(1−w)·g(T)</td><td>可分离两种预测器，冻结表示也可用</td><td>权重若用测试期选择会泄漏</td></tr>
+<tr><td>残差修正</td><td>f(X)+g(T,X)</td><td>直接针对数值基准遗漏部分</td><td>训练残差必须用时间外预测产生</td></tr>
+<tr><td>状态门控</td><td>f(X)+a(X,T)·g(X,T)</td><td>可在噪声、缺失或旧新闻时回到基准</td><td>门控塌缩、模态捷径、训练不稳定</td></tr>
+<tr><td>跨模态注意力或对齐</td><td>数值状态查询相关文本</td><td>允许上下文条件化、事件选择</td><td>注意力权重不是因果贡献</td></tr>
+<tr><td>交错序列与模态专家</td><td>按真实时间交错文本和价格片段</td><td>保留事件顺序与反应过程</td><td>时钟、模型年代和算力要求更高</td></tr>
+</tbody></table>
+<p>这些路线应放进同一数据协议比较。F021 支持不要预设复杂注意力必胜；F020 支持在交错时间关系重要时认真测试专用专家。F023 的 M2VN 在历史时点嵌入下加入对齐损失并做去新闻消融，说明“对齐”和“污染控制”可以一起研究。<a href="https://arxiv.org/abs/2510.15691" target="_blank" rel="noopener">F021</a>、<a href="https://aclanthology.org/2025.ijcnlp-long.54/" target="_blank" rel="noopener">F020</a>、<a href="https://arxiv.org/abs/2510.20699" target="_blank" rel="noopener">F023</a></p>
+<p>需特别区分：把数字转成字符串后交给 LLM 的论文，并不天然研究外部文本是否有用；RAG 检索历史数值片段的收益，也不能全部归为新闻语义贡献。例如 FinSrag 的核心改进是金融时序检索，应放在方法支撑而非新闻增量的直接证据中。<a href="https://arxiv.org/abs/2502.05878" target="_blank" rel="noopener">F149</a></p>
+<h2>六、一个真正回答你们问题的实验矩阵</h2>
+<h3>6.1 固定信息边界与样本</h3>
+<p>选定资产和预测时点，例如美国股票收盘前可用信息、或中国股票开盘前已发布公告。建立真正的历史股票池，保留退市样本。数值基准和文本模型使用同一测试股票日；全样本结果与“有新闻日”结果分别报告。文本缺失可能有信息，不能把缺失日悄悄删除再与不同样本的数值基准比较。</p>
+<p>滚动或扩展窗口划分训练、验证与测试。重叠标签要依据预测跨度留出间隔；所有标准化、PCA、词典筛选、主题估计、特征选择、提示选择及模型选择只能使用当时的训练/验证信息。语言模型的预训练、后训练、检索资料与工具访问都有自己的截止日期。</p>
+<h3>6.2 建议的分组对照</h3>
+<table><thead><tr><th>组别</th><th>输入</th><th>它排除的替代解释</th></tr></thead><tbody>
+<tr><td>B0</td><td>强数值 X</td><td>建立公平起点</td></tr>
+<tr><td>B1</td><td>X + 公司/行业/规模等稳定控制</td><td>文本只是识别公司</td></tr>
+<tr><td>B2</td><td>X + 新闻有无、篇数、来源与时间</td><td>文本只是信息到达或覆盖</td></tr>
+<tr><td>B3</td><td>X + 文本中的结构化数字</td><td>文本只是传递数字</td></tr>
+<tr><td>B4</td><td>X + 情绪/主题</td><td>低维语义已足够</td></tr>
+<tr><td>B5</td><td>X + 历史一致冻结嵌入</td><td>丰富表示是否还有增量</td></tr>
+<tr><td>B6</td><td>X + 结构化事件/预期差/文本变化</td><td>哪种语义成分有用</td></tr>
+<tr><td>B7</td><td>B5/B6 + 条件化或门控</td><td>增益是否依状态与匹配</td></tr>
+<tr><td>P1</td><td>公司内部、局部时间块的文本配对置换</td><td>预测是否依赖当天对齐</td></tr>
+<tr><td>P2</td><td>遮蔽名称与日期、仅保留身份、删除语义</td><td>身份和记忆通道</td></tr>
+<tr><td>P3</td><td>不增加新事实的语气改写与符号冲突</td><td>模型是否被表达方式带偏</td></tr>
+<tr><td>P4</td><td>人为延迟、删除重复新闻、只保留首次报道</td><td>到达时间与新颖度</td></tr>
+</tbody></table>
+<p>置换不能随意破坏金融数据依赖结构，应保留公司和局部状态，且把检验对象写清楚。删名称也不是保证无污染，因为业务事实本身可能识别公司。</p>
+<h3>6.3 基准与损失</h3>
+<p>收益任务：历史均值、合理的线性/正则化因子模型、树模型等数值基准；按具体市场加入适用的基本面与技术信息。报告样本外 R²、RankIC、校准、成本后组合回报以及相对数值策略的效用差，避免只预测高度持久的价格水平。</p>
+<p>波动率任务：HAR 家族、杠杆/半方差/跳跃/测量误差等合理增强，以及树或其他非线性数值模型；数据允许时加入隐含波动率。不能只用最弱 HAR 比较。报告 MSE 与 QLIKE，并分普通日、高波动日、跳跃日以及不同预测期。对非负预测、log 变换回转与 Jensen 偏差作一致处理。</p>
+<p>若 v 为实际方差、h 为方差预测，可用 QLIKE(v,h)=v/h−log(v/h)−1（正值定义域）；所有模型必须预测同一种对象，不能混用波动率与方差。</p>
+<p>方向任务：与多数类、简单方向规则和适合的不平衡分类基准比较；用 MCC、平衡准确率、AUROC 等补充准确率，并说明被丢弃的“平盘”样本和标签阈值。不同论文的准确率无法脱离标签构造直接排序。</p>
+<p>统计推断须处理时间依赖、同一天横截面相关和重叠目标。DM、嵌套模型检验、块 bootstrap、多重检验或模型置信集应与具体比较相匹配，不是把所有检验机械叠加。跨股票的成千上万行不等于独立的成千上万个交易日。</p>
+<h3>6.4 从平均增量进一步问“哪里有用”</h3>
+<p>在预先设定的状态上比较损失差：低/高波动、突发/例行事件、公司/行业/宏观新闻、首次/重复报道、大/小市值、低/高分析师覆盖、不同来源及预测期。</p>
+<p>不要只报告表现最好的子组。要把选择过程计入推断，给出整体结果、各子组置信区间和跨阶段稳定性。若文本仅在极少数突发日有帮助，平均误差可能掩盖价值；但极端日改善也可能被少数事件驱动，需要事件留出检查。</p>
+<h2>七、值得你们优先发展的选题</h2>
+<h3>选题 A：文本增量的来源分解</h3>
+<p>问题：数值之上剩余的预测价值，究竟来自身份、报道数量、文字中的数字、语义事件，还是与当天价格状态的匹配？</p>
+<p>做法：实施 B0—B7 与局部置换负对照，分别预测收益、波动率或尾部。论文贡献可以是一个清楚的增量分解，即使最终发现大模型语义只贡献很小部分，也有研究价值。F004 与 F002 提供直接切入口，但更广资产与历史一致模型仍需检验。</p>
+<h3>选题 B：文本的条件价值，而非一个固定权重</h3>
+<p>问题：为什么相同利好语调在不同估值、预期与波动率状态下反而产生不同作用？</p>
+<p>做法：构建预期差和事件暴露，比较简单拼接、预测组合、残差修正、门控和条件注意力；让模型允许忽略文本。重点是能被负对照推翻的条件机制，而非增加几个模块后只报平均准确率。F015、F021 和 F023 是合适的起点。</p>
+<h3>选题 C：语义新颖度、发布时间与预测半衰期</h3>
+<p>问题：文本的新信息相对哪个过去窗口定义？延迟多久后价值消失？短期收益信号消失后是否仍有风险信号？</p>
+<p>做法：首次报道与修订分开，人工延迟 5 分钟、半小时、一天等，并按市场可交易性确定合理间隔。比较固定衰减、学习衰减和直接过滤。F011、F012 和 F016 把衰减、参考窗口与时钟边界联系起来。具体延迟网格应按数据频率设计，不能照搬。</p>
+<h3>选题 D：无前视条件下的融合边界</h3>
+<p>问题：历史一致模型、现代通用模型与金融专用模型的真实差距有多大？复杂融合的增益是否只存在于污染或小样本条件？</p>
+<p>做法：冻结不同历史年份的模型，统一下游预测器、预算和资料快照，再比较表示、融合与微调。F025、F022、F003 和 F023 提供方法与相反证据。模型训练截止可验证性是这个项目的重要资源约束。</p>
+<p>本次检索已经发现这些方向的近邻研究，因此不应声称“首次研究文本有无价值”。更可靠的贡献定位是：在具体市场、目标、时钟与强基准下，把既有文献尚未一起分离的通道进行受控比较。正式立项前应对最接近的 10—20 篇全文和代码继续做差异核查。</p>
+<h2>八、建议的首轮阅读顺序</h2>
+<ol>
+<li>F004：识别公司身份、对齐与真实增量，最贴近你们的原始问题。</li>
+<li>F002、F028、F030：新闻数量、语义与强波动率基准，理解“补充”的边界。</li>
+<li>F012、F017：正收益、语言分类成功与文本增量的断裂。</li>
+<li>F021：简单融合、混合模型与微调为什么不总有效。</li>
+<li>F020、F023：两条认真处理融合与模态差异的正面技术路线。</li>
+<li>F025、F022、F003、F016：预训练记忆与事件内部时钟两类不同泄漏。</li>
+<li>F033、F029、F031、F027：任务监督、词语选择、文本变化与经济叙事。</li>
+<li>F015、F019、F011、F018：2026 年 10 月的条件信息、选择、新闻老化与公司背景。</li>
+</ol>
+<h2>九、检索口径和本报告的局限</h2>
+<p>本次使用 Crossref、OpenAlex 和 arXiv 的 API，以 45 组跨主题检索式为主体，辅以经典题名/DOI 查询、arXiv 专题检索和 2026 年 10 月补检。使用期刊、ACL Anthology、arXiv、SSRN 和作者机构页面核对关键内容。批量检索记录数、失败请求、去重与最终纳入数见“检索与核验说明.md”及 JSON 日志。</p>
+<p>纳入范围以金融资产收益、价格方向、波动率、风险预测为主，辅以宏观、汇率、商品和必要的金融 NLP 测量方法。风险分类、破产、情绪测量和宏观预期文献是邻接证据，不能冒充同一项金融时序预测任务。中文及非英语研究有纳入，但未系统覆盖 CNKI、万方、付费 Web of Science、Scopus 或所有 SSRN 工作论文，英文数据库覆盖偏差仍然存在。</p>
+<p>目录多数记录只完成题名和元数据筛选；有摘要字段并不表示本次已逐篇读完摘要。未完整获取的研究不填写样本量、增益或消融结论，也不将“未核读”写成“作者没有做”。重点核读没有独立复现代码，不能给论文盖上已复现的质量认证。</p>
+<p>原始题录可能把早期工作论文年份与后续出版 DOI 混合，或保留改题版本。最终核验保留未解决条目的状态；正式投稿时还需按采用版本核对卷期、页码、作者顺序与可得日期。新预印本的存在和摘要可核实，不等于结果已经经受评审或复现。</p>
+<p>为了避免错误的“共识”，本报告不计算 420 条中的正面结果比例，不计算不可比指标的平均提升，不把同一期刊名、注意力权重或显著性本身当作因果识别，也不声称某个方向无人研究。</p></main></html>

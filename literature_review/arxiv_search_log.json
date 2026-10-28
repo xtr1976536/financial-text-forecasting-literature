@@ -1,0 +1,38 @@
+[
+  {
+    "database": "arxiv",
+    "query": "all:\"stock prediction\" AND (all:news OR all:text OR all:multimodal)",
+    "url": "https://export.arxiv.org/api/query?search_query=all%3A%22stock+prediction%22+AND+%28all%3Anews+OR+all%3Atext+OR+all%3Amultimodal%29&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+    "status": 200
+  },
+  {
+    "database": "arxiv",
+    "query": "all:\"financial forecasting\" AND (all:text OR all:news OR all:language)",
+    "url": "https://export.arxiv.org/api/query?search_query=all%3A%22financial+forecasting%22+AND+%28all%3Atext+OR+all%3Anews+OR+all%3Alanguage%29&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+    "status": 200
+  },
+  {
+    "database": "arxiv",
+    "query": "all:\"volatility forecasting\" AND (all:text OR all:news)",
+    "url": "https://export.arxiv.org/api/query?search_query=all%3A%22volatility+forecasting%22+AND+%28all%3Atext+OR+all%3Anews%29&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+    "status": 200
+  },
+  {
+    "database": "arxiv",
+    "query": "all:\"return prediction\" AND all:\"language models\"",
+    "url": "https://export.arxiv.org/api/query?search_query=all%3A%22return+prediction%22+AND+all%3A%22language+models%22&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+    "status": 200
+  },
+  {
+    "database": "arxiv",
+    "query": "all:\"lookahead bias\"",
+    "url": "https://export.arxiv.org/api/query?search_query=all%3A%22lookahead+bias%22&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+    "status": 200
+  },
+  {
+    "database": "arxiv",
+    "query": "all:\"stock movement\" AND all:news",
+    "url": "https://export.arxiv.org/api/query?search_query=all%3A%22stock+movement%22+AND+all%3Anews&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+    "status": 200
+  }
+]

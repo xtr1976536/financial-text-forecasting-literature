@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/R90IUhzbWSiguLVx3LO6oWBaeNY</id>
+  <title>arXiv Query: search_query=&amp;id_list=2302.11939,2310.04948,2406.16964,2404.18543,2609.15344,2402.02368&amp;start=0&amp;max_results=20</title>
+  <updated>2026-10-28T12:32:49Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=&amp;start=0&amp;max_results=20&amp;id_list=2302.11939,2310.04948,2406.16964,2404.18543,2609.15344,2402.02368" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>20</opensearch:itemsPerPage>
+  <opensearch:totalResults>6</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2404.18543v1</id>
+    <title>Time Machine GPT</title>
+    <updated>2024-04-29T09:34:25Z</updated>
+    <link href="https://arxiv.org/abs/2404.18543v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2404.18543v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) are often trained on extensive, temporally indiscriminate text corpora, reflecting the lack of datasets with temporal metadata. This approach is not aligned with the evolving nature of language. Conventional methods for creating temporally adapted language models often depend on further pre-training static models on time-specific data. This paper presents a new approach: a series of point-in-time LLMs called Time Machine GPT (TiMaGPT), specifically designed to be nonprognosticative. This ensures they remain uninformed about future factual information and linguistic changes. This strategy is beneficial for understanding language evolution and is of critical importance when applying models in dynamic contexts, such as time-series forecasting, where foresight of future information can prove problematic. We provide access to both the models and training datasets.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-04-29T09:34:25Z</published>
+    <arxiv:comment>NAACL Findings 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Felix Drinkall</name>
+    </author>
+    <author>
+      <name>Eghbal Rahimikia</name>
+    </author>
+    <author>
+      <name>Janet B. Pierrehumbert</name>
+    </author>
+    <author>
+      <name>Stefan Zohren</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2302.11939v6</id>
+    <title>One Fits All:Power General Time Series Analysis by Pretrained LM</title>
+    <updated>2023-10-15T05:07:17Z</updated>
+    <link href="https://arxiv.org/abs/2302.11939v6" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2302.11939v6" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Although we have witnessed great success of pre-trained models in natural language processing (NLP) and computer vision (CV), limited progress has been made for general time series analysis. Unlike NLP and CV where a unified model can be used to perform different tasks, specially designed approach still dominates in each time series analysis task such as classification, anomaly detection, forecasting, and few-shot learning. The main challenge that blocks the development of pre-trained model for time series analysis is the lack of a large amount of data for training. In this work, we address this challenge by leveraging language or CV models, pre-trained from billions of tokens, for time series analysis. Specifically, we refrain from altering the self-attention and feedforward layers of the residual blocks in the pre-trained language or image model. This model, known as the Frozen Pretrained Transformer (FPT), is evaluated through fine-tuning on all major types of tasks involving time series. Our results demonstrate that pre-trained models on natural language or images can lead to a comparable or state-of-the-art performance in all main time series analysis tasks, as illustrated in Figure 1. We also found both theoretically and empirically that the self-attention module behaviors similarly to principle component analysis (PCA), an observation that helps explains how transformer bridges the domain gap and a crucial step towards understanding the universality of a pre-trained transformer.The code is publicly available at https://github.com/DAMO-DI-ML/One_Fits_All.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-02-23T11:37:39Z</published>
+    <arxiv:comment>Neurips 2023 Spotlight</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Tian Zhou</name>
+    </author>
+    <author>
+      <name>PeiSong Niu</name>
+    </author>
+    <author>
+      <name>Xue Wang</name>
+    </author>
+    <author>
+      <name>Liang Sun</name>
+    </author>
+    <author>
+      <name>Rong Jin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2406.16964v2</id>
+    <title>Are Language Models Actually Useful for Time Series Forecasting?</title>
+    <updated>2024-10-26T01:43:07Z</updated>
+    <link href="https://arxiv.org/abs/2406.16964v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2406.16964v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) are being applied to time series forecasting. But are language models actually useful for time series? In a series of ablation studies on three recent and popular LLM-based time series forecasting methods, we find that removing the LLM component or replacing it with a basic attention layer does not degrade forecasting performance -- in most cases, the results even improve! We also find that despite their significant computational cost, pretrained LLMs do no better than models trained from scratch, do not represent the sequential dependencies in time series, and do not assist in few-shot settings. Additionally, we explore time series encoders and find that patching and attention structures perform similarly to LLM-based forecasters.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-06-22T03:33:38Z</published>
+    <arxiv:comment>Accepted to NeurIPS 2024 (Spotlight)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Mingtian Tan</name>
+    </author>
+    <author>
+      <name>Mike A. Merrill</name>
+    </author>
+    <author>
+      <name>Vinayak Gupta</name>
+    </author>
+    <author>
+      <name>Tim Althoff</name>
+    </author>
+    <author>
+      <name>Thomas Hartvigsen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.02368v3</id>
+    <title>Timer: Generative Pre-trained Transformers Are Large Time Series Models</title>
+    <updated>2024-10-18T03:19:55Z</updated>
+    <link href="https://arxiv.org/abs/2402.02368v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.02368v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deep learning has contributed remarkably to the advancement of time series analysis. Still, deep models can encounter performance bottlenecks in real-world data-scarce scenarios, which can be concealed due to the performance saturation with small models on current benchmarks. Meanwhile, large models have demonstrated great powers in these scenarios through large-scale pre-training. Continuous progress has been achieved with the emergence of large language models, exhibiting unprecedented abilities such as few-shot generalization, scalability, and task generality, which are however absent in small deep models. To change the status quo of training scenario-specific small models from scratch, this paper aims at the early development of large time series models (LTSM). During pre-training, we curate large-scale datasets with up to 1 billion time points, unify heterogeneous time series into single-series sequence (S3) format, and develop the GPT-style architecture toward LTSMs. To meet diverse application needs, we convert forecasting, imputation, and anomaly detection of time series into a unified generative task. The outcome of this study is a Time Series Transformer (Timer), which is generative pre-trained by next token prediction and adapted to various downstream tasks with promising capabilities as an LTSM. Code and datasets are available at: https://github.com/thuml/Large-Time-Series-Model.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-04T06:55:55Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Yong Liu</name>
+    </author>
+    <author>
+      <name>Haoran Zhang</name>
+    </author>
+    <author>
+      <name>Chenyu Li</name>
+    </author>
+    <author>
+      <name>Xiangdong Huang</name>
+    </author>
+    <author>
+      <name>Jianmin Wang</name>
+    </author>
+    <author>
+      <name>Mingsheng Long</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.04948v3</id>
+    <title>TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting</title>
+    <updated>2024-04-02T04:39:08Z</updated>
+    <link href="https://arxiv.org/abs/2310.04948v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.04948v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The past decade has witnessed significant advances in time series modeling with deep learning. While achieving state-of-the-art results, the best-performing architectures vary highly across applications and domains. Meanwhile, for natural language processing, the Generative Pre-trained Transformer (GPT) has demonstrated impressive performance via training one general-purpose model across various textual datasets. It is intriguing to explore whether GPT-type architectures can be effective for time series, capturing the intrinsic dynamic attributes and leading to significant accuracy improvements. In this paper, we propose a novel framework, TEMPO, that can effectively learn time series representations. We focus on utilizing two essential inductive biases of the time series task for pre-trained models: (i) decomposition of the complex interaction between trend, seasonal and residual components; and (ii) introducing the design of prompts to facilitate distribution adaptation in different types of time series. TEMPO expands the capability for dynamically modeling real-world temporal phenomena from data within diverse domains. Our experiments demonstrate the superior performance of TEMPO over state-of-the-art methods on zero shot setting for a number of time series benchmark datasets. This performance gain is observed not only in scenarios involving previously unseen datasets but also in scenarios with multi-modal inputs. This compelling finding highlights TEMPO's potential to constitute a foundational model-building framework.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-08T00:02:25Z</published>
+    <arxiv:comment>Accepted by ICLR 2024. Camera Ready Version</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Defu Cao</name>
+    </author>
+    <author>
+      <name>Furong Jia</name>
+    </author>
+    <author>
+      <name>Sercan O Arik</name>
+    </author>
+    <author>
+      <name>Tomas Pfister</name>
+    </author>
+    <author>
+      <name>Yixiang Zheng</name>
+    </author>
+    <author>
+      <name>Wen Ye</name>
+    </author>
+    <author>
+      <name>Yan Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.15344v1</id>
+    <title>Parameter-Efficient Adaptation of Pretrained Language Models for Time-Series Forecasting</title>
+    <updated>2026-09-14T10:30:59Z</updated>
+    <link href="https://arxiv.org/abs/2609.15344v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.15344v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the adaptation of pretrained language models to univariate time-series forecasting through a parameter-efficient transfer learning framework, with the goal of understanding which design choices drive effective cross-modal transfer. While language models operate on discrete textual tokens, time series consist of continuous numerical observations with temporal dependencies. To bridge this modality gap, we project fixed-length time-series patches directly into the embedding space of a pretrained GPT-2 backbone, bypassing textual tokenization and treating the Transformer as a generic sequence encoder. Through controlled ablation studies on seven benchmark datasets spanning energy, weather, traffic, and finance, we analyze the effects of (i)~representation strategy (continuous embeddings versus textual serialisation), (ii)~adaptation regime (frozen backbone versus partial or full fine-tuning), (iii)~architectural components such as adapters, pooling strategies, and prediction heads, and (iv)~input context length. Continuous patch-based embeddings consistently outperform textual prompting and randomly initialised backbones. The adapted pipeline attains MASE within the range of specialised forecasting architectures while updating less than 1\% of total model parameters. Results further indicate that freezing the pretrained backbone and training lightweight projection and adapter modules provides a favourable accuracy--efficiency trade-off with stable behaviour across varying context lengths.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-14T10:30:59Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Tamanna Kumavat</name>
+    </author>
+    <author>
+      <name>Georg Brunner</name>
+    </author>
+    <author>
+      <name>Kyriakos Flouris</name>
+    </author>
+  </entry>
+</feed>

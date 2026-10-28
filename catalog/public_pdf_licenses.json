@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "F001",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2304.07619",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F004",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.25468",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F005",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.16131",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F006",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2606.12210",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F007",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2609.38523",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F008",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F009",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2609.23703",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F010",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2603.11838",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F011",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F012",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.22745",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F013",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.22043",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F014",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2603.26797",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F015",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.24268",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F016",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.21659",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F017",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2608.04200",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F018",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2610.36083",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F019",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F020",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F021",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2510.15691",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F022",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2512.23847",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F023",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2510.20699",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F024",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2512.19484",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F025",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2502.21206",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F030",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2108.00480",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F033",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F034",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F036",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F039",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F040",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F050",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F052",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2603.19286",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F053",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F054",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2602.00086",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F055",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2607.24875",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F061",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://arxiv.org/pdf/2609.38869",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F062",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F067",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://journals.zeuspress.org/index.php/conference/article/download/1515/1501",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F084",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2601.02677",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F086",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F094",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.joebm.com/vol14/JOEBM-V14N3-947.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F101",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F103",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by-nc/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://tebmr.org/index.php/ojs/article/download/98/94",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F104",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F106",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2502.05186",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F107",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1559900/pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F108",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1608365/pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F109",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://assets-eu.researchsquare.com/files/rs-6277319/v1_covered_99d860c0-6ca9-45fc-95d7-3faf5d49daa5.pdf?c=1754326205",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F110",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F112",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F113",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2406.06594",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F117",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2504.10078",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F122",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F123",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F125",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2501.16621",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F126",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F127",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F128",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2508.20707",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F129",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F130",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2504.09257",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F131",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F132",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2505.07871",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F135",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://link.springer.com/content/pdf/10.1007/s44248-025-00076-w.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F136",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0326034&type=printable",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F138",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F139",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F141",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F142",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F144",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://aemps.ewapub.com/article/view/29289.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F145",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2601.06088",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F146",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F147",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2510.21604",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F148",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2503.10957",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F149",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F152",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2503.03612",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F156",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F157",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F159",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://ace.ewapub.com/article/view/29923.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F160",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2510.19203",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F164",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F166",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.inderscience.com/storage/f109611253874112.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F170",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.atlantis-press.com/article/126017597.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F176",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2302.13999",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F179",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2402.06698",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F183",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F185",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F186",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F187",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2411.01368",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F188",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F189",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F191",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F194",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2402.03659",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F195",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://bura.brunel.ac.uk/bitstream/2438/27918/3/FullText.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F199",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2407.18103",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F203",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2410.19025",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F206",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://systems.enpress-publisher.com/index.php/jipd/article/download/7671/3800",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F207",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2411.06391",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F208",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F210",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F211",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F212",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2412.06836",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F214",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2410.00024",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F215",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://bura.brunel.ac.uk/bitstream/2438/29519/1/FullText.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F216",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.nature.com/articles/s41598-024-78984-1.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F217",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F220",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2309.17322",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F221",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2206.00648",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F224",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F225",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0284695&type=printable",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F226",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0282234&type=printable",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F227",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F228",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F229",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F231",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.nature.com/articles/s41598-023-42605-0.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F232",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F235",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by-sa/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://ijeecs.iaescore.com/index.php/IJEECS/article/download/31164/17503",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F239",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F243",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09751065.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F244",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F245",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09745117.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F247",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F249",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F251",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F255",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F256",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F260",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://kar.kent.ac.uk/103539/1/Journal%20of%20Forecasting%20-%202022%20-%20Wei%20-%20Forecasting%20and%20trading%20Bitcoin%20with%20machine%20learning%20techniques%20and%20a%20hybrid.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F261",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2206.06174",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F263",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://assets-eu.researchsquare.com/files/rs-2233591/v1/3fcbcdc3-875b-4dbb-9a73-e7ed6a83ad82.pdf?c=1669539563",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F264",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F268",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2210.00883",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F269",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://utoronto.scholaris.ca/server/api/core/bitstreams/2208fcd6-507e-4ab8-b8a3-5980fc8e8ef8/content",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F270",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F271",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://ieeexplore.ieee.org/ielx7/6287639/9312710/09355141.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F273",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F274",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F275",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F280",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F290",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2112.13593",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F294",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F299",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F304",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F305",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F308",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/publicdomain/zero/1.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2005.11706",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F312",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F313",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F314",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F315",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F320",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://backoffice.biblio.ugent.be/download/8600237/8634288",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F321",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F322",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F326",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/1906.02868",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F331",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F333",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F334",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F338",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://www.hippocampus.si/ISSN/1854-6935/17.335-351.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F342",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F343",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F347",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F352",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F353",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F354",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F357",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F359",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F362",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/1812.10479",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F366",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-sa/4.0"
+    ],
+    "evidence": "PDF正文或链接注释明确许可",
+    "evidence_url": "https://centaur.reading.ac.uk/123579/1/10642.pdf",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F367",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F369",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F373",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F374",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F376",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F380",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F384",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F385",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F388",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F392",
+    "public_pdf": true,
+    "license_urls": [
+      "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+    ],
+    "evidence": "ACL自有材料公开使用政策",
+    "evidence_url": "https://aclanthology.org/faq/copyright/",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F393",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F397",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F408",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F420",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F421",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F422",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F423",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  },
+  {
+    "id": "F424",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2404.18543",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F425",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2609.15344",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F426",
+    "public_pdf": true,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    ],
+    "evidence": "arXiv原文页明确许可",
+    "evidence_url": "https://arxiv.org/abs/2402.02368",
+    "attribution": "作者、题名、原文、下载来源和许可均在对应阅读卡中保留；PDF原样提供；非商业研究文献库。"
+  },
+  {
+    "id": "F427",
+    "public_pdf": false,
+    "reason": "未确认公开转载许可；保留原文链接和本地个人副本。"
+  }
+]

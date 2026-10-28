@@ -1,0 +1,620 @@
+[
+  {
+    "db": "crossref",
+    "query": "stock prediction financial news text",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=stock+prediction+financial+news+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number"
+  },
+  {
+    "db": "crossref",
+    "query": "stock return prediction sentiment analysis",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+return+prediction+sentiment+analysis&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock market prediction twitter sentiment",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+market+prediction+twitter+sentiment&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction multimodal text numerical",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+multimodal+text+numerical&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial time series text fusion",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+time+series+text+fusion&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction news cross attention",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+news+cross+attention&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction earnings conference calls",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+earnings+conference+calls&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "volatility forecasting news text",
+    "url": "https://api.crossref.org/works?query.bibliographic=volatility+forecasting+news+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "realized volatility forecasting news sentiment",
+    "url": "https://api.crossref.org/works?query.bibliographic=realized+volatility+forecasting+news+sentiment&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial risk prediction textual disclosures",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+risk+prediction+textual+disclosures&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock returns textual analysis Tetlock",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+returns+textual+analysis+Tetlock&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "news implied volatility Manela Moreira",
+    "url": "https://api.crossref.org/works?query.bibliographic=news+implied+volatility+Manela+Moreira&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "textual analysis asset pricing machine learning",
+    "error": "HTTPSConnectionPool(host='api.crossref.org', port=443): Read timed out. (read timeout=50)"
+  },
+  {
+    "db": "crossref",
+    "query": "business news economic forecasts text",
+    "url": "https://api.crossref.org/works?query.bibliographic=business+news+economic+forecasts+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "macroeconomic forecasting newspaper text",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=macroeconomic+forecasting+newspaper+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number"
+  },
+  {
+    "db": "crossref",
+    "query": "inflation forecasting news text",
+    "url": "https://api.crossref.org/works?query.bibliographic=inflation+forecasting+news+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "exchange rate forecasting news sentiment",
+    "url": "https://api.crossref.org/works?query.bibliographic=exchange+rate+forecasting+news+sentiment&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "cryptocurrency forecasting text sentiment",
+    "url": "https://api.crossref.org/works?query.bibliographic=cryptocurrency+forecasting+text+sentiment&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "oil price prediction news text",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=oil+price+prediction+news+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number"
+  },
+  {
+    "db": "crossref",
+    "query": "bond yield prediction news sentiment",
+    "url": "https://api.crossref.org/works?query.bibliographic=bond+yield+prediction+news+sentiment&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "central bank communication forecasting financial markets",
+    "url": "https://api.crossref.org/works?query.bibliographic=central+bank+communication+forecasting+financial+markets&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "earnings prediction annual reports text",
+    "url": "https://api.crossref.org/works?query.bibliographic=earnings+prediction+annual+reports+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction event extraction knowledge graph",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+event+extraction+knowledge+graph&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction financial language model",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=stock+prediction+financial+language+model&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number"
+  },
+  {
+    "db": "crossref",
+    "query": "large language models return prediction",
+    "url": "https://api.crossref.org/works?query.bibliographic=large+language+models+return+prediction&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial forecasting look ahead bias language models",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+forecasting+look+ahead+bias+language+models&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction multimodal benchmark",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+multimodal+benchmark&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial news predictability negative results",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+news+predictability+negative+results&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction FinBERT",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+FinBERT&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction StockNet",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+StockNet&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction FinGPT",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+FinGPT&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction 2025 news language model",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+2025+news+language+model&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction 2026 news language model",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+2026+news+language+model&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "volatility forecasting 2025 text",
+    "url": "https://api.crossref.org/works?query.bibliographic=volatility+forecasting+2025+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "volatility forecasting 2026 text",
+    "url": "https://api.crossref.org/works?query.bibliographic=volatility+forecasting+2026+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial time series multimodal 2026",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+time+series+multimodal+2026&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial text forecast survey",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+text+forecast+survey&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "text as data economics finance",
+    "url": "https://api.crossref.org/works?query.bibliographic=text+as+data+economics+finance&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "news novelty stock return prediction",
+    "url": "https://api.crossref.org/works?query.bibliographic=news+novelty+stock+return+prediction&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "earnings calls risk prediction text",
+    "url": "https://api.crossref.org/works?query.bibliographic=earnings+calls+risk+prediction+text&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial statement text crash risk prediction",
+    "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.bibliographic=financial+statement+text+crash+risk+prediction&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number"
+  },
+  {
+    "db": "crossref",
+    "query": "stock prediction financial news Chinese",
+    "url": "https://api.crossref.org/works?query.bibliographic=stock+prediction+financial+news+Chinese&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "monetary policy text high frequency prediction",
+    "url": "https://api.crossref.org/works?query.bibliographic=monetary+policy+text+high+frequency+prediction&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "financial time series news sentiment causal",
+    "url": "https://api.crossref.org/works?query.bibliographic=financial+time+series+news+sentiment+causal&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "crossref",
+    "query": "news economic attention return prediction",
+    "url": "https://api.crossref.org/works?query.bibliographic=news+economic+attention+return+prediction&rows=60&filter=until-pub-date%3A2026-10-28&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2Ctype%2Cabstract%2CURL%2Cis-referenced-by-count%2Cvolume%2Cissue%2Cpage%2Carticle-number",
+    "count": 60,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction financial news text",
+    "url": "https://api.openalex.org/works?search=stock+prediction+financial+news+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock return prediction sentiment analysis",
+    "url": "https://api.openalex.org/works?search=stock+return+prediction+sentiment+analysis&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock market prediction twitter sentiment",
+    "url": "https://api.openalex.org/works?search=stock+market+prediction+twitter+sentiment&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction multimodal text numerical",
+    "url": "https://api.openalex.org/works?search=stock+prediction+multimodal+text+numerical&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial time series text fusion",
+    "url": "https://api.openalex.org/works?search=financial+time+series+text+fusion&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction news cross attention",
+    "url": "https://api.openalex.org/works?search=stock+prediction+news+cross+attention&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction earnings conference calls",
+    "url": "https://api.openalex.org/works?search=stock+prediction+earnings+conference+calls&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "volatility forecasting news text",
+    "url": "https://api.openalex.org/works?search=volatility+forecasting+news+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "realized volatility forecasting news sentiment",
+    "url": "https://api.openalex.org/works?search=realized+volatility+forecasting+news+sentiment&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial risk prediction textual disclosures",
+    "url": "https://api.openalex.org/works?search=financial+risk+prediction+textual+disclosures&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock returns textual analysis Tetlock",
+    "url": "https://api.openalex.org/works?search=stock+returns+textual+analysis+Tetlock&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "news implied volatility Manela Moreira",
+    "url": "https://api.openalex.org/works?search=news+implied+volatility+Manela+Moreira&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "textual analysis asset pricing machine learning",
+    "url": "https://api.openalex.org/works?search=textual+analysis+asset+pricing+machine+learning&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "business news economic forecasts text",
+    "url": "https://api.openalex.org/works?search=business+news+economic+forecasts+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "macroeconomic forecasting newspaper text",
+    "url": "https://api.openalex.org/works?search=macroeconomic+forecasting+newspaper+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "inflation forecasting news text",
+    "url": "https://api.openalex.org/works?search=inflation+forecasting+news+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "exchange rate forecasting news sentiment",
+    "url": "https://api.openalex.org/works?search=exchange+rate+forecasting+news+sentiment&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "cryptocurrency forecasting text sentiment",
+    "url": "https://api.openalex.org/works?search=cryptocurrency+forecasting+text+sentiment&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "oil price prediction news text",
+    "url": "https://api.openalex.org/works?search=oil+price+prediction+news+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "bond yield prediction news sentiment",
+    "url": "https://api.openalex.org/works?search=bond+yield+prediction+news+sentiment&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "central bank communication forecasting financial markets",
+    "url": "https://api.openalex.org/works?search=central+bank+communication+forecasting+financial+markets&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "earnings prediction annual reports text",
+    "url": "https://api.openalex.org/works?search=earnings+prediction+annual+reports+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction event extraction knowledge graph",
+    "url": "https://api.openalex.org/works?search=stock+prediction+event+extraction+knowledge+graph&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction financial language model",
+    "url": "https://api.openalex.org/works?search=stock+prediction+financial+language+model&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "large language models return prediction",
+    "url": "https://api.openalex.org/works?search=large+language+models+return+prediction&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial forecasting look ahead bias language models",
+    "url": "https://api.openalex.org/works?search=financial+forecasting+look+ahead+bias+language+models&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction multimodal benchmark",
+    "url": "https://api.openalex.org/works?search=stock+prediction+multimodal+benchmark&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial news predictability negative results",
+    "url": "https://api.openalex.org/works?search=financial+news+predictability+negative+results&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction FinBERT",
+    "url": "https://api.openalex.org/works?search=stock+prediction+FinBERT&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction StockNet",
+    "url": "https://api.openalex.org/works?search=stock+prediction+StockNet&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction FinGPT",
+    "url": "https://api.openalex.org/works?search=stock+prediction+FinGPT&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction 2025 news language model",
+    "url": "https://api.openalex.org/works?search=stock+prediction+2025+news+language+model&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction 2026 news language model",
+    "url": "https://api.openalex.org/works?search=stock+prediction+2026+news+language+model&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "volatility forecasting 2025 text",
+    "url": "https://api.openalex.org/works?search=volatility+forecasting+2025+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "volatility forecasting 2026 text",
+    "url": "https://api.openalex.org/works?search=volatility+forecasting+2026+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial time series multimodal 2026",
+    "url": "https://api.openalex.org/works?search=financial+time+series+multimodal+2026&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial text forecast survey",
+    "url": "https://api.openalex.org/works?search=financial+text+forecast+survey&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "text as data economics finance",
+    "url": "https://api.openalex.org/works?search=text+as+data+economics+finance&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "news novelty stock return prediction",
+    "url": "https://api.openalex.org/works?search=news+novelty+stock+return+prediction&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "earnings calls risk prediction text",
+    "url": "https://api.openalex.org/works?search=earnings+calls+risk+prediction+text&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial statement text crash risk prediction",
+    "url": "https://api.openalex.org/works?search=financial+statement+text+crash+risk+prediction&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "stock prediction financial news Chinese",
+    "url": "https://api.openalex.org/works?search=stock+prediction+financial+news+Chinese&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "monetary policy text high frequency prediction",
+    "url": "https://api.openalex.org/works?search=monetary+policy+text+high+frequency+prediction&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "financial time series news sentiment causal",
+    "url": "https://api.openalex.org/works?search=financial+time+series+news+sentiment+causal&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  },
+  {
+    "db": "openalex",
+    "query": "news economic attention return prediction",
+    "url": "https://api.openalex.org/works?search=news+economic+attention+return+prediction&per-page=40&filter=to_publication_date%3A2026-10-28",
+    "count": 40,
+    "searched": "2026-10-28"
+  }
+]
